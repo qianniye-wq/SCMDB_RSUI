@@ -1,11 +1,11 @@
 {
-  "version": "4.8.0-live.11825000",
+  "version": "4.8.1-live.11875683",
   "sourceLanguage": "en",
   "targetLanguage": "zh-cn-rsui",
-  "keyCount": 2630,
+  "keyCount": 2693,
   "stats": {
-    "total": 2630,
-    "translated": 2485,
+    "total": 2693,
+    "translated": 2548,
     "missing": 1,
     "noLocKey": 75,
     "placeholderFallback": 69,
@@ -245,7 +245,7 @@
     },
     "headhunters_eliminateall_cfp_M_title_001": {
       "en": "[LOCATION] has been greenlit",
-      "tr": "袭击 [LOCATION] 已被批准[蓝图]"
+      "tr": "袭击 [LOCATION] 已被批准"
     },
     "headhunters_maintenance_M_title_001": {
       "en": "[LOCATION] needs a bunch of repairs",
@@ -253,11 +253,11 @@
     },
     "cfp_defend_headhunters_M_title_001": {
       "en": "[LOCATION] needs assistance",
-      "tr": "[LOCATION] 需要协助[蓝图]"
+      "tr": "[LOCATION] 需要协助"
     },
     "cfp_defend_boss_Generic_title_001": {
       "en": "[LOCATION] needs help",
-      "tr": "[LOCATION] 需要帮助[蓝图]"
+      "tr": "[LOCATION] 需要帮助"
     },
     "headhunters_maintenance_H_title_001": {
       "en": "[LOCATION] needs massive repairs",
@@ -269,7 +269,7 @@
     },
     "headhunters_killship_gen_vlrt_title_001": {
       "en": "[TARGET] needs stomping",
-      "tr": "[TARGET] 需要被狠狠踩扁[蓝图]"
+      "tr": "[TARGET] 需要被狠狠踩扁"
     },
     "vaughn_assassination_title_E": {
       "en": "A Basic Task",
@@ -317,7 +317,7 @@
     },
     "headhunters_ChainElimAll_1C_AttackCFP_E_title_001": {
       "en": "A little retaliation",
-      "tr": "一点小报复[蓝图]"
+      "tr": "一点小报复"
     },
     "vaughn_assassination_title_VE": {
       "en": "A Simple Task",
@@ -329,7 +329,7 @@
     },
     "Headhunters_eliminateall_caves_title_01": {
       "en": "A Swift Reprisal",
-      "tr": "迅速的报复[蓝图]"
+      "tr": "迅速的报复"
     },
     "vaughn_assassination_title_S": {
       "en": "A Troublesome Task",
@@ -349,15 +349,15 @@
     },
     "Vaughn_EliminateSpecific_FPS_Rockcracker_title_001": {
       "en": "A Well Deserved Break",
-      "tr": "一次应得的休息[蓝图]"
+      "tr": "一次应得的休息"
     },
     "Adagio_Industrial_Salvage_Universal_Intro_Title_001": {
       "en": "Adagio Holdings in Need of Salvagers",
-      "tr": "阿德吉奥集团需要打捞人员\\n[阿德吉奥打捞 - 入门][蓝图]"
+      "tr": "阿德吉奥集团需要打捞人员\\n[阿德吉奥打捞 - 入门]"
     },
     "RAIN_collectresources_multiple_GEN_name_01": {
       "en": "Additional Resources For Research",
-      "tr": "研究需要额外资源[蓝图]"
+      "tr": "研究需要额外资源"
     },
     "BHG_Certification_VeryHard_Title": {
       "en": "Advanced Tracker License Certification",
@@ -365,11 +365,11 @@
     },
     "cfp_ChainElimAll_1C_ElimSpec_GenAttack_E_title_001": {
       "en": "Alert: [LOCATION] under attack",
-      "tr": "警报：[LOCATION] 遭到攻击[蓝图]"
+      "tr": "警报：[LOCATION] 遭到攻击"
     },
     "vaughn_assassination_FPS_UGF_illegal_title_001": {
       "en": "All Things Come To An End",
-      "tr": "物皆有终[蓝图]"
+      "tr": "物皆有终"
     },
     "CleanAir_RecoverCargo_Easy_title": {
       "en": "Alliance Aid: Attempted Cargo Theft",
@@ -539,6 +539,10 @@
       "en": "Ambush XenoThreat Strike Wing",
       "tr": "伏击异种威胁打击编队\\n[福克斯韦尔 - 异种 伏击]"
     },
+    "vaughn_assassination_PA_S_title": {
+      "en": "Annihilating the Alliance",
+      "tr": "歼灭联盟\\n[沃恩 - 刺杀 人民联盟 ERT]"
+    },
     "vaughn_assassination_VE_title_rehire": {
       "en": "Another Chance to Impress",
       "tr": "证明自己的时刻"
@@ -557,7 +561,7 @@
     },
     "Intersec_TSG_Assist_Solo_Title_001": {
       "en": "Assist People's Alliance Vessel Tranquility",
-      "tr": "协助人民联盟飞船宁静号\\n[互安防务 - 战术打击群][蓝图]"
+      "tr": "协助人民联盟飞船宁静号\\n[互安防务 - 战术打击群]"
     },
     "cfp_defendship_MRT_bombingrun_title_001": {
       "en": "Assist Retreating Ship",
@@ -565,7 +569,7 @@
     },
     "cfp_defend_cave_Generic_title_001": {
       "en": "Assistance needed at [LOCATION]",
-      "tr": "[LOCATION] 需要协助[蓝图]"
+      "tr": "[LOCATION] 需要协助"
     },
     "TheCollector_Mod_ATLS_Geo_Grad3_Name": {
       "en": "ATLS Cool Metal Color",
@@ -581,11 +585,11 @@
     },
     "cfp_eliminateall_fromCFP_Gen_E_title_001": {
       "en": "Attack on CFP outpost",
-      "tr": "繁荣公民前哨站遭到攻击[蓝图]"
+      "tr": "繁荣公民前哨站遭到攻击"
     },
     "headhunters_defend_xt_title_001": {
       "en": "Back up needed at outpost",
-      "tr": "前哨站需要支援[蓝图]"
+      "tr": "前哨站需要支援"
     },
     "headhunters_defendship_MRT_PA_title_001": {
       "en": "Backup Needed Now",
@@ -597,7 +601,7 @@
     },
     "BitZeros_blackbox_S_Title_001": {
       "en": "Bad at Goodbyes",
-      "tr": "不善告别\\n[零比特 - 回收黑匣子 ERT][蓝图]"
+      "tr": "不善告别\\n[零比特 - 回收黑匣子 ERT]"
     },
     "Hockrow_BlackBox_space_S_Title_001": {
       "en": "Blackbox Recovery Request: Special Investigator Level",
@@ -613,7 +617,7 @@
     },
     "BitZeros_blackbox_M_Title_001": {
       "en": "Too Smart For Our Own Good",
-      "tr": "聪明反被聪明误\\n[零比特 - 回收黑匣子 MRT][蓝图]"
+      "tr": "聪明反被聪明误\\n[零比特 - 回收黑匣子 MRT]"
     },
     "blackbox_recover_title_E_001": {
       "en": "Getting To the Bottom of It",
@@ -625,7 +629,7 @@
     },
     "BitZeros_blackbox_E_Title_001": {
       "en": "Getting To the Bottom of It",
-      "tr": "弄清真相\\n[零比特 - 回收黑匣子 LRT][蓝图]"
+      "tr": "弄清真相\\n[零比特 - 回收黑匣子 LRT]"
     },
     "blackbox_recover_title_VH_001": {
       "en": "Our Version of The Truth",
@@ -637,7 +641,7 @@
     },
     "BitZeros_blackbox_VH_Title_001": {
       "en": "Our Version of The Truth",
-      "tr": "咱们版本的真相\\n[零比特 - 回收黑匣子 VHRT][蓝图]"
+      "tr": "咱们版本的真相\\n[零比特 - 回收黑匣子 VHRT]"
     },
     "blackbox_recover_title_VE_001": {
       "en": "Pick Up, Put Down",
@@ -649,7 +653,7 @@
     },
     "BitZeros_blackbox_VE_Title_001": {
       "en": "Pick Up, Put Down",
-      "tr": "拿起来，放下去\\n[零比特 - 回收黑匣子 VLRT][蓝图]"
+      "tr": "拿起来，放下去\\n[零比特 - 回收黑匣子 VLRT]"
     },
     "blackbox_recover_title_H_001": {
       "en": "Legendary Info?",
@@ -661,7 +665,7 @@
     },
     "BitZeros_blackbox_H_Title_001": {
       "en": "Legendary Info?",
-      "tr": "传奇信息？\\n[零比特 - 回收黑匣子 HRT][蓝图]"
+      "tr": "传奇信息？\\n[零比特 - 回收黑匣子 HRT]"
     },
     "recovery_title": {
       "en": "Getting Our Gear Back",
@@ -669,7 +673,7 @@
     },
     "BitZeros_RecoverItem_Generic_Title_001": {
       "en": "Bleeding Edge Tech",
-      "tr": "前沿科技\\n[零比特 - 物品取回][蓝图]"
+      "tr": "前沿科技\\n[零比特 - 物品取回]"
     },
     "BitZeros_RecoverItem_Generic_Title_002": {
       "en": "Turning the Tables",
@@ -681,7 +685,7 @@
     },
     "DeadSaints_RecoverItem_Generic_Title_001": {
       "en": "Getting Our Gear Back",
-      "tr": "把咱们的装备拿回来\\n[死亡圣徒 - 物品取回][蓝图]"
+      "tr": "把咱们的装备拿回来\\n[死亡圣徒 - 物品取回]"
     },
     "DeadSaints_RecoverItem_Generic_Title_002": {
       "en": "Stash Retrieval",
@@ -693,7 +697,7 @@
     },
     "Headhunters_defend_XT_VH_title_001": {
       "en": "Block XenoThreat Expansion",
-      "tr": "封锁异种威胁的扩张（极高风险 VHRT）[蓝图]"
+      "tr": "封锁异种威胁的扩张（极高风险 VHRT）"
     },
     "headhunters_bombingrun_M_CFP_title_001": {
       "en": "Blow Up Citizens for Prosperity Fuel Reserves",
@@ -705,7 +709,7 @@
     },
     "northrock_bounty_fps_title_001": {
       "en": "Bounty Assignment: [TARGET] (HRT)",
-      "tr": "赏金任务：[TARGET]（高风险目标 HRT）[蓝图]"
+      "tr": "赏金任务：[TARGET]（高风险目标 HRT）"
     },
     "headhunters_defendship_multi_HRT_PA_title_001": {
       "en": "Bring Down the Hammer",
@@ -721,11 +725,11 @@
     },
     "cfp_defend_regionshift_title_001": {
       "en": "Call for Help: [LOCATION]",
-      "tr": "请求帮助：[LOCATION][蓝图]"
+      "tr": "请求帮助：[LOCATION]"
     },
     "cfp_ChainElimAll_3C_ElimSpec_XTAttack_VH_title_001": {
       "en": "Campaign to reclaim XenoThreat outposts",
-      "tr": "夺回异种威胁前哨站战役[蓝图]"
+      "tr": "夺回异种威胁前哨站战役"
     },
     "mg_miles_capturegang_title_006": {
       "en": "Capture Arlington Gang Leader Maltrox Arlington",
@@ -753,11 +757,11 @@
     },
     "Foxwell_EliminateAll_NonHostiles_title_001": {
       "en": "Carefully Clear Site",
-      "tr": "谨慎清理站点[蓝图]"
+      "tr": "谨慎清理站点"
     },
     "LingFamily_HaulCargo_AToB_Intro_title": {
       "en": "Cargo Hauling Opportunity with Ling Hauling",
-      "tr": "与玲家快递的货运机遇\\n[玲家快递 - 货运 入门][蓝图]"
+      "tr": "与玲家快递的货运机遇\\n[玲家快递 - 货运 入门]"
     },
     "Headhunters_HaulCargo_AToB_OLP_title_01": {
       "en": "Cargo Retrieval",
@@ -765,11 +769,11 @@
     },
     "CFP_RecoverCargo_VeryHard_Title": {
       "en": "Cargo Shipment Must Be Completed",
-      "tr": "货物运输必须完成\\n[繁荣公民 - 取回货物 VHRT][蓝图]"
+      "tr": "货物运输必须完成\\n[繁荣公民 - 取回货物 VHRT]"
     },
     "RedWind_HaulCargo_AToB_ASD_title": {
       "en": "Cargo Transfer from Shuttered Facility",
-      "tr": "从关闭的设施转移货物[蓝图]"
+      "tr": "从关闭的设施转移货物"
     },
     "searchbodyspace_title_E": {
       "en": "Potential Assassin Victim: [TARGET]",
@@ -810,6 +814,10 @@
     "headhunters_sabotage_servers_E_CFP_title_001": {
       "en": "Clear Citizens for Prosperity Servers",
       "tr": "清理繁荣公民的服务器"
+    },
+    "eckhart_defendship_multi_VHRT_SB_title_001": {
+      "en": "Client Needs Combat Support",
+      "tr": "客户需要战斗支援\\n[埃克哈特 - 保卫飞船 碎刃帮 VHRT]"
     },
     "EckhartSecurity_RecoverCargo_Easy_Title": {
       "en": "Client's Cargo Needs Recovering",
@@ -861,7 +869,7 @@
     },
     "cfp_defendship_multi_SRT_title_001": {
       "en": "Come to Aid of Convoy",
-      "tr": "来支援运输舰队\\n[繁荣公民 - 保卫飞船 ERT][蓝图]"
+      "tr": "来支援运输舰队\\n[繁荣公民 - 保卫飞船 ERT]"
     },
     "LingFamily_RecoverCargo_Hard_Title": {
       "en": "Complete Stranded Ling Shipment",
@@ -873,7 +881,11 @@
     },
     "cfp_defendship_multi_HRT_title_001": {
       "en": "Convoy Caught in Brutal Attack",
-      "tr": "船队遭遇残酷袭击\\n[繁荣公民 - 保卫飞船 HRT][蓝图]"
+      "tr": "船队遭遇残酷袭击\\n[繁荣公民 - 保卫飞船 HRT]"
+    },
+    "cfp_defendship_multi_VHRT_SB_title_001": {
+      "en": "Convoy Under Attack",
+      "tr": "运输舰对遭遇袭击\\n[繁荣公民 - 保卫飞船 碎刃帮 VHRT]"
     },
     "spacecollect_cargo_title_VE_01": {
       "en": "Red Wind Package Recovery",
@@ -963,9 +975,13 @@
       "en": "Red Wind Challenging Package Recovery",
       "tr": "红风物流高难度包裹找回\\n[红风物流 - 物品取回 HRT]"
     },
+    "vaughn_assassination_PA_H_title": {
+      "en": "Cracking the Alliance",
+      "tr": "重击联盟\\n[沃恩 - 刺杀 人民联盟 HRT]"
+    },
     "headhunters_multikillship_base_Generic_M_title_001": {
       "en": "Crash some ships",
-      "tr": "摧毁一些飞船[蓝图]"
+      "tr": "摧毁一些飞船"
     },
     "EckhartSecurity_RecoverCargo_VeryHard_Title": {
       "en": "Critical Cargo Extraction",
@@ -977,7 +993,7 @@
     },
     "CFP_RecoverCargo_Hard_Title": {
       "en": "Crucial Supplies Need Retrieving",
-      "tr": "关键物资亟待回收\\n[繁荣公民 - 取回货物 HRT][蓝图]"
+      "tr": "关键物资亟待回收\\n[繁荣公民 - 取回货物 HRT]"
     },
     "Highpoint_KillAnimals_MultiType_M_title": {
       "en": "Cull Invasive Creatures",
@@ -1001,7 +1017,7 @@
     },
     "Eckhart_ShipAmbush_VH_title": {
       "en": "Dangerous Ambush",
-      "tr": "危险的伏击\\n[埃克哈特 - 伏击 VHRT][蓝图]"
+      "tr": "危险的伏击\\n[埃克哈特 - 伏击 VHRT]"
     },
     "blackbox_recover_title_intro_001": {
       "en": "Data Transfer",
@@ -1009,7 +1025,7 @@
     },
     "BitZeros_blackbox_Intro_Title_001": {
       "en": "Data Transfer",
-      "tr": "数据转移\\n[零比特 - 回收黑匣子 入门][蓝图]"
+      "tr": "数据转移\\n[零比特 - 回收黑匣子 入门]"
     },
     "DataHeist_SvR_DataTransfer": {
       "en": "Data Transfer",
@@ -1045,19 +1061,19 @@
     },
     "headhunters_eliminateall_retrievestolen_base_Generic_M_title_001": {
       "en": "Death and cargo",
-      "tr": "死亡与货物[蓝图]"
+      "tr": "死亡与货物"
     },
     "headhunters_EliminateSpecific_Asteroid_Generic_VE_title_001": {
       "en": "Deep space hit",
-      "tr": "深空打击[蓝图]"
+      "tr": "深空打击"
     },
     "HeadHunters_DefendEntitesAndEscort_VH_Title": {
       "en": "Defend [LOCATION] From Mercs",
-      "tr": "从佣兵手里保卫 [LOCATION]\\n[猎头帮 - 保护实体并护航 VHRT][蓝图]"
+      "tr": "从佣兵手里保卫 [LOCATION]\\n[猎头帮 - 保护实体并护航 VHRT]"
     },
     "cfp_defend-criminals_title_001": {
       "en": "Defend [LOCATION] from Outlaws",
-      "tr": "从不法分子手中防守 [LOCATION][蓝图]"
+      "tr": "从不法分子手中防守 [LOCATION]"
     },
     "Headhunters_DefendDestructibleEntites_VH_Title_001": {
       "en": "Defend Fuel Tanks From Mercs",
@@ -1065,11 +1081,11 @@
     },
     "Intersec_DefendShip_Title_Easy_001": {
       "en": "Defend InterSec Operative",
-      "tr": "保卫互安特工\\n[互安防务 - 保卫飞船 LRT][蓝图]"
+      "tr": "保卫互安特工\\n[互安防务 - 保卫飞船 LRT]"
     },
     "cfp_eliminateall_fromCFP_hh_M_title_001": {
       "en": "Defenders needed against Headhunters",
-      "tr": "需要抵抗者以对抗猎头帮[蓝图]"
+      "tr": "需要抵抗者以对抗猎头帮"
     },
     "Headhunters_EliminateAll_OLP_H_title_001": {
       "en": "Deliver a Message",
@@ -1077,27 +1093,27 @@
     },
     "LingFamily_RecoverCargo_VeryHard_Title": {
       "en": "Delivery of Abandoned Ling Cargo",
-      "tr": "运送邻家快递被抛弃的货物\\n[玲家快递 - 取回货物 非常困难 无战斗]"
+      "tr": "运送玲家快递被抛弃的货物\\n[玲家快递 - 取回货物 非常困难 无战斗]"
     },
     "Foxwell_DestroyNarcotics_H_title_001": {
       "en": "Destroy Dangerous Drugs",
-      "tr": "摧毁危险毒品[蓝图]"
+      "tr": "摧毁危险毒品"
     },
     "cfp_sabotage_servers_M_HH_title_001": {
       "en": "Destroy Headhunter Stolen Data",
-      "tr": "摧毁猎头帮盗取的数据[蓝图]"
+      "tr": "摧毁猎头帮盗取的数据"
     },
     "Foxwell_DestroyNarcotics_M_title_001": {
       "en": "Destroy Illegal Drugs",
-      "tr": "摧毁非法毒品[蓝图]"
+      "tr": "摧毁非法毒品"
     },
     "cfp_sabotage_VH_title_001": {
       "en": "Destroy Outlaw Data Servers",
-      "tr": "摧毁不法分子的数据服务器[蓝图]"
+      "tr": "摧毁不法分子的数据服务器"
     },
     "cfp_sabotage_servers_VH_XT_title_001": {
       "en": "Destroy XenoThreat Data Servers",
-      "tr": "摧毁异种威胁数据服务器[蓝图]"
+      "tr": "摧毁异种威胁数据服务器"
     },
     "headhunters_bombingrun_VH_XT_title_001": {
       "en": "Destroy XenoThreat Fuel Reserves",
@@ -1105,7 +1121,11 @@
     },
     "cfp_sabotage_servers_H_XT_title_001": {
       "en": "Destroy XenoThreat Logistic Data",
-      "tr": "摧毁异种威胁的物流数据[蓝图]"
+      "tr": "摧毁异种威胁的物流数据"
+    },
+    "vaughn_assassination_PA_VH_title": {
+      "en": "Destroying the Alliance",
+      "tr": "摧毁联盟\\n[沃恩 - 刺杀 人民联盟 VHRT]"
     },
     "CFP_SabotageRelays_HH_001_Title": {
       "en": "Disable Headhunter Comm Towers",
@@ -1113,7 +1133,7 @@
     },
     "cfp_sabotage_generators_VE_title_001": {
       "en": "Disable Outlaw Stronghold at [LOCATION]",
-      "tr": "关闭位于 [LOCATION] 的不法分子据点[蓝图]"
+      "tr": "关闭位于 [LOCATION] 的不法分子据点"
     },
     "TheCollector_Recipes_Title_Molten": {
       "en": "Do Lava Suit",
@@ -1129,11 +1149,11 @@
     },
     "headhunters_ChainElimAll_1C_ElimSpec_AttackCFP_M_title_001": {
       "en": "Driving CFP out",
-      "tr": "驱逐繁荣公民[蓝图]"
+      "tr": "驱逐繁荣公民"
     },
     "headhunters_EliminateSpecific_XenoThreat_title_001": {
       "en": "Drop a XenoThreat",
-      "tr": "放倒一名异种威胁[蓝图]"
+      "tr": "放倒一名异种威胁"
     },
     "spacecollect_cargo_title_intro_01": {
       "en": "Red Wind Seeking New Couriers",
@@ -1161,11 +1181,11 @@
     },
     "cfp_bombingrun_E_title_001": {
       "en": "Eliminate Fuel Stores",
-      "tr": "摧毁燃料储备[蓝图]"
+      "tr": "摧毁燃料储备"
     },
     "InterSec_KillShip_Vanduul_Title_Super_001": {
       "en": "Eliminate Vanduul Ship",
-      "tr": "消灭剜度飞船\\n[互安防务 - 击杀飞船 ERT][蓝图]"
+      "tr": "消灭剜度飞船\\n[互安防务 - 击杀飞船 ERT]"
     },
     "Foxwell_X2_DrawOutBoss_Title": {
       "en": "Eliminate XenoThreat Enforcer",
@@ -1177,15 +1197,15 @@
     },
     "FTL_Courier_Nyx_Easy_Title_001": {
       "en": "ENTRY LVL. COURIER NEEDED IN NYX",
-      "tr": "尼克斯星系需要入门级快递员\\n[超光速快递 - 投递 尼克斯 简单][蓝图]"
+      "tr": "尼克斯星系需要入门级快递员\\n[超光速快递 - 投递 尼克斯 简单]"
     },
     "FTL_Courier_Stanton_Easy_Title_001": {
       "en": "ENTRY LVL. COURIER NEEDED IN STANTON",
-      "tr": "斯坦顿星系需要入门级快递员\\n[超光速快递 - 投递 斯坦顿 简单][蓝图]"
+      "tr": "斯坦顿星系需要入门级快递员\\n[超光速快递 - 投递 斯坦顿 简单]"
     },
     "cfp_sabotage_server_elimiatespecific_HH_title_001": {
       "en": "Eradicate All Traces of Headhunter Data",
-      "tr": "消灭猎头帮数据的所有痕迹[蓝图]"
+      "tr": "消灭猎头帮数据的所有痕迹"
     },
     "Intersec_ShipWaveAttack_DrawOutBoss_S_Title_001": {
       "en": "Eradicate UEE Threat: [TARGET]",
@@ -1205,7 +1225,7 @@
     },
     "Eckhart_EscortShips_E_title": {
       "en": "Executive Protection Detail",
-      "tr": "行政安保派遣\\n[埃克哈特 - 飞船护航 LRT][蓝图]"
+      "tr": "行政安保派遣\\n[埃克哈特 - 飞船护航 LRT]"
     },
     "EckhartSecurity_EliminateAll_DC_Title_001": {
       "en": "Expel Outlaws",
@@ -1213,19 +1233,19 @@
     },
     "RedWind_HaulCargo_AToB_title_01": {
       "en": "Trainee Hauler Needed for Direct Small Shipment",
-      "tr": "需要 [RANK] 级别运输工承接\\n[CARGO_GRADE] 直达 货物运输\\n[红风物流 - 一对一货运][蓝图]"
+      "tr": "需要 [RANK] 级别运输工承接\\n[CARGO_GRADE] 直达 货物运输\\n[红风物流 - 一对一货运]"
     },
     "RedWind_HaulCargo_SingleToMulti_title_01": {
       "en": "Senior Hauler Needed for Large Shipment",
-      "tr": "需要 [RANK] 级别运输工承接\\n[CARGO_GRADE] 货物运输\\n[红风物流 - 一对多货运][蓝图]"
+      "tr": "需要 [RANK] 级别运输工承接\\n[CARGO_GRADE] 货物运输\\n[红风物流 - 一对多货运]"
     },
     "RedWind_HaulCargo_MultiToSingle_title_01": {
       "en": "Senior Hauler Needed for Large Shipment",
-      "tr": "需要 [RANK] 级别运输工承接\\n[CARGO_GRADE] 货物运输\\n[红风物流 - 多对一货运][蓝图]"
+      "tr": "需要 [RANK] 级别运输工承接\\n[CARGO_GRADE] 货物运输\\n[红风物流 - 多对一货运]"
     },
     "Eckhart_EscortShips_M_title": {
       "en": "Experienced Protection Detail Needed",
-      "tr": "需要丰富经验的安保派遣\\n[埃克哈特 - 飞船护航 MRT][蓝图]"
+      "tr": "需要丰富经验的安保派遣\\n[埃克哈特 - 飞船护航 MRT]"
     },
     "cfp_maintenance_H_title_001": {
       "en": "Extensive Repairs Needed: Yang's Place",
@@ -1237,7 +1257,7 @@
     },
     "TheCollector_Recipes_Title_L22Wolf": {
       "en": "Extra Special Wolf",
-      "tr": "格外特别的狼\\n[兑换 - 等待数据]"
+      "tr": "格外特别的狼\\n[兑换 - L-22 头狼 维科洛战争版]"
     },
     "EckhartSecurity_RecoverCargo_Super_Title": {
       "en": "Extreme Risk Cargo Retrieval",
@@ -1245,7 +1265,7 @@
     },
     "eckhart_defendship_multi_SRT_title_001": {
       "en": "Extremely Dangerous Defense",
-      "tr": "极其危险的保卫\\n[埃克哈特 - 保卫飞船 ERT][蓝图]"
+      "tr": "极其危险的保卫\\n[埃克哈特 - 保卫飞船 ERT]"
     },
     "TheCollector_Ships_F8C_Milt_TItle": {
       "en": "F8 War Mod",
@@ -1257,7 +1277,7 @@
     },
     "LingFamily_RecoverCargo_VeryEasy_Title": {
       "en": "Finish Interrupted Ling Delivery",
-      "tr": "完成邻家快递被中断的运输\\n[玲家快递 - 取回货物 非常简单 无战斗]"
+      "tr": "完成玲家快递被中断的运输\\n[玲家快递 - 取回货物 非常简单 无战斗]"
     },
     "HeadHunters_RecoverCargo_Medium_Title": {
       "en": "Finish the job",
@@ -1278,6 +1298,10 @@
     "TheCollector_Ships_Fortune_Indus_TItle": {
       "en": "Fortune ship for you",
       "tr": "给你财运飞船\\n[兑换 - 财运 维科洛版]"
+    },
+    "vaughn_assassination_PA_M_title": {
+      "en": "Fracturing the Alliance",
+      "tr": "粉碎联盟\\n[沃恩 - 刺杀 人民联盟 MRT]"
     },
     "TheCollector_Recipes_Title_KopSkull": {
       "en": "Fun Kopion Skull Gun",
@@ -1305,11 +1329,11 @@
     },
     "headhunters_killship_xenothreat_ert_title_001": {
       "en": "Ghost some XenoTrash",
-      "tr": "悄悄干掉一些异种垃圾[蓝图]"
+      "tr": "悄悄干掉一些异种垃圾"
     },
     "headhunters_ChainElimAll_AttackGen_E_title_001": {
       "en": "Go on the warpath",
-      "tr": "踏上征途[蓝图]"
+      "tr": "踏上征途"
     },
     "TheCollector_Ships_Drake_Golem_Title": {
       "en": "Golem Rocks",
@@ -1325,11 +1349,11 @@
     },
     "headhunters_eliminateall_xt_title_001": {
       "en": "Green light on [LOCATION]",
-      "tr": "攻击 [LOCATION] 已被批准[蓝图]"
+      "tr": "攻击 [LOCATION] 已被批准"
     },
     "headhunters_EliminateSpecific_Generic_VH_title_001": {
       "en": "Green light on [TARGET]",
-      "tr": "给 [TARGET] 开绿灯[蓝图]"
+      "tr": "给 [TARGET] 开绿灯"
     },
     "headhunters_bombingrun_VE_title_001": {
       "en": "Ground The Upstarts",
@@ -1337,7 +1361,7 @@
     },
     "HeadHunters_DefendEntitesAndEscort_S_Title": {
       "en": "Guard [LOCATION] From Rivals",
-      "tr": "从死对头手里守住 [LOCATION]\\n[猎头帮 - 保护实体并护航 ERT][蓝图]"
+      "tr": "从死对头手里守住 [LOCATION]\\n[猎头帮 - 保护实体并护航 ERT]"
     },
     "Headhunters_DefendDestructibleEntites_S_Title_001": {
       "en": "Guard Fuel Tanks At All Costs",
@@ -1357,7 +1381,7 @@
     },
     "Intersec_DefendShip_Vanduul_Title_Super_001": {
       "en": "Handle Vanduul Attack on Ship",
-      "tr": "应对剜度对飞船的攻击\\n[互安防务 - 保卫飞船 ERT][蓝图]"
+      "tr": "应对剜度对飞船的攻击\\n[互安防务 - 保卫飞船 ERT]"
     },
     "headhunters_HaulCargo_RegionLink_title_001": {
       "en": "Hauling ask.",
@@ -1365,7 +1389,7 @@
     },
     "cfp_defend_headhunters_H_title_001": {
       "en": "Headhunter attack on [LOCATION]",
-      "tr": "猎头帮袭击 [LOCATION][蓝图]"
+      "tr": "猎头帮袭击 [LOCATION]"
     },
     "headhunters_defendship_LRT_PA_title_001": {
       "en": "Headhunter Needs Help",
@@ -1383,13 +1407,17 @@
       "en": "Headhunter Ship Needs Backup",
       "tr": "猎头帮飞船需要支援"
     },
+    "cfp_defendship_multi_HRT_SB_title_001": {
+      "en": "Help Ambushed Convoy",
+      "tr": "帮助被伏击的舰队\\n[繁荣公民 - 保卫飞船 碎刃帮 HRT]"
+    },
     "CFP_ShipWaveAttack_ClearHostiles_Title_VE_001": {
       "en": "Help Deal with Outlaw Hunting Party",
       "tr": "协助应对不法分子狩猎队\\n[繁荣公民 - 击杀飞船 VLRT 多波次]"
     },
     "cfp_ChainElimAll_1C_HHAttack_M_title_001": {
       "en": "Help defend [LOCATION] from Headhunters",
-      "tr": "帮助防御 [LOCATION] 免受猎头帮的攻击[蓝图]"
+      "tr": "帮助防御 [LOCATION] 免受猎头帮的攻击"
     },
     "Headhunters_DefendLocation_H_Title_001": {
       "en": "Help Headhunters at [LOCATION]",
@@ -1401,7 +1429,7 @@
     },
     "Foxwell_EliminateAll_Allies_title_001": {
       "en": "Help Protect Site",
-      "tr": "协助保护站点[蓝图]"
+      "tr": "协助保护站点"
     },
     "TheCollector_Recipes_Title_Hush": {
       "en": "Hide Snow Suit",
@@ -1413,35 +1441,35 @@
     },
     "EckhartSecurity_EliminateBoss_DC_Title_001": {
       "en": "High-Risk Bounty: [TARGET]",
-      "tr": "高风险赏金：[TARGET][蓝图]"
+      "tr": "高风险赏金：[TARGET]"
     },
     "eckhart_defendship_multi_HRT_title_001": {
       "en": "High-Risk Ship Encounter",
-      "tr": "高风险飞船冲突\\n[埃克哈特 - 保卫飞船 HRT][蓝图]"
+      "tr": "高风险飞船冲突\\n[埃克哈特 - 保卫飞船 HRT]"
     },
     "Eckhart_ShipAmbush_S_title": {
       "en": "Highly Dangerous Ambush",
-      "tr": "高危险的伏击\\n[埃克哈特 - 伏击 ERT][蓝图]"
+      "tr": "高危险的伏击\\n[埃克哈特 - 伏击 ERT]"
     },
     "headhunters_ChainElimAll_3C_ElimSpec_AttackCFP_VH_title_001": {
       "en": "Hit a CFP Complex",
-      "tr": "攻击一个繁荣公民建筑群[蓝图]"
+      "tr": "攻击一个繁荣公民建筑群"
     },
     "headhunters_killship_cfp_mrt_title_001": {
       "en": "Hit a CFP Ship",
-      "tr": "攻击一艘繁荣公民的飞船[蓝图]"
+      "tr": "攻击一艘繁荣公民的飞船"
     },
     "headhunters_ChainElimAll_Boss_XenoThreat_VH_title_001": {
       "en": "Hit on XenoThreat command",
-      "tr": "攻击异种威胁指挥部[蓝图]"
+      "tr": "攻击异种威胁指挥部"
     },
     "headhunters_EliminateAll_XenoThreat_H_title_001": {
       "en": "Hit XenoThreat at [LOCATION]",
-      "tr": "攻击 [LOCATION] 的异种威胁[蓝图]"
+      "tr": "攻击 [LOCATION] 的异种威胁"
     },
     "headhunters_eliminateall_cfp_E_title_001": {
       "en": "Hitting a CFP site",
-      "tr": "攻击繁荣公民的站点[蓝图]"
+      "tr": "攻击繁荣公民的站点"
     },
     "TheCollector_Recipes_Title_NonePistol": {
       "en": "Hot Shot",
@@ -1473,7 +1501,7 @@
     },
     "CFP_RecoverCargo_Easy_Title": {
       "en": "Intercepted Supply Run",
-      "tr": "供应被中断\\n[繁荣公民 - 取回货物 LRT][蓝图]"
+      "tr": "供应被中断\\n[繁荣公民 - 取回货物 LRT]"
     },
     "Foxwell_X2_ShipWaves_Title": {
       "en": "Interdict XenoThreat Attack Force",
@@ -1509,7 +1537,7 @@
     },
     "Hockrow_FacilityDelve_P3M1_title": {
       "en": "Jorrit Dossier: Project Hyperion",
-      "tr": "约里特卷宗：海伯利安项目[蓝图]"
+      "tr": "约里特卷宗：海伯利安项目"
     },
     "Hockrow_FacilityDelve_P2M1_title": {
       "en": "Jorrit Dossier: Retrieve Energy Anomaly Data",
@@ -1525,19 +1553,19 @@
     },
     "Hockrow_FacilityDelve_P2M1_Repeat_title": {
       "en": "Jorrit Dossier: Updated Energy Anomaly Data",
-      "tr": "约里特卷宗：更新能量异常数据[蓝图]"
+      "tr": "约里特卷宗：更新能量异常数据"
     },
     "Hockrow_FacilityDelve_P2M4_Repeat_title": {
       "en": "Jorrit Dossier: Updated Power Usage Data",
-      "tr": "约里特卷宗：更新能源用量数据[蓝图]"
+      "tr": "约里特卷宗：更新能源用量数据"
     },
     "Hockrow_FacilityDelve_P2M2_Repeat_title": {
       "en": "Jorrit Dossier: Updated Security Data",
-      "tr": "约里特卷宗：更新安保数据[蓝图]"
+      "tr": "约里特卷宗：更新安保数据"
     },
     "Hockrow_FacilityDelve_P2M3_Repeat_title": {
       "en": "Jorrit Dossier: Updated Seismic Data",
-      "tr": "约里特卷宗：更新地震波数据[蓝图]"
+      "tr": "约里特卷宗：更新地震波数据"
     },
     "BHG_Certification_Hard_Title": {
       "en": "Journeyman Tracker License Certification",
@@ -1545,11 +1573,11 @@
     },
     "FTL_Courier_Stanton_Medium_Title_001": {
       "en": "JR. LVL. COURIER NEEDED IN STANTON",
-      "tr": "斯坦顿星系需要初级快递员\\n[超光速快递 - 投递 斯坦顿 中等难度][蓝图]"
+      "tr": "斯坦顿星系需要初级快递员\\n[超光速快递 - 投递 斯坦顿 中等难度]"
     },
     "HeadHunters_DefendEntitesAndEscort_VE_Title": {
       "en": "Keep [LOCATION] Safe",
-      "tr": "保证 [LOCATION] 安全\\n[猎头帮 - 保护实体并护航 VLRT][蓝图]"
+      "tr": "保证 [LOCATION] 安全\\n[猎头帮 - 保护实体并护航 VLRT]"
     },
     "Headhunters_DefendDestructibleEntites_VE_Title_001": {
       "en": "Keep Fuel Tanks Safe From Upstarts",
@@ -1557,15 +1585,15 @@
     },
     "headhunters_killship_cfp_hrt_title_001": {
       "en": "Kill Order",
-      "tr": "杀戮订单[蓝图]"
+      "tr": "杀戮订单"
     },
     "headhunters_EliminateSpecific_Generic_E_title_001": {
       "en": "Kill the king",
-      "tr": "刺王杀驾[蓝图]"
+      "tr": "刺王杀驾"
     },
     "Foxwell_DestroyNarcotics_E_title_001": {
       "en": "Knock Out New Drug Op",
-      "tr": "清除新毒品行动[蓝图]"
+      "tr": "清除新毒品行动"
     },
     "headhunters_sabotage_generators_multi_M_title_001": {
       "en": "Knock Power Out",
@@ -1585,15 +1613,15 @@
     },
     "Eckhart_ShipAmbush_M_title": {
       "en": "Launch Surprise Attack",
-      "tr": "发动奇袭\\n[埃克哈特 - 伏击 MRT][蓝图]"
+      "tr": "发动奇袭\\n[埃克哈特 - 伏击 MRT]"
     },
     "LingFamily_HaulCargo_AToB_title": {
       "en": "Ling Family Rookie Cargo Haul - Small Scale",
-      "tr": "玲家 [RANK] 货物运输 - [CARGO_GRADE] 级别\\n[邻家快递 - 一对一货运][蓝图]"
+      "tr": "玲家 [RANK] 货物运输 - [CARGO_GRADE] 级别\\n[玲家快递 - 一对一货运]"
     },
     "LingFamily_HaulCargo_MultiToSingle_title": {
       "en": "Ling Family Rookie Cargo Haul - Small Scale",
-      "tr": "玲家 [RANK] 货物运输 - [CARGO_GRADE] 级别\\n[邻家快递 - 多对一货运][蓝图]"
+      "tr": "玲家 [RANK] 货物运输 - [CARGO_GRADE] 级别\\n[玲家快递 - 多对一货运]"
     },
     "LingFamily_RecoverCargo_Easy_Title": {
       "en": "Ling Shipment Recovery",
@@ -1661,7 +1689,7 @@
     },
     "headhunters_eliminateall_cfp_title_001": {
       "en": "Looking for a little revenge",
-      "tr": "想小小地报复一下[蓝图]"
+      "tr": "想小小地报复一下"
     },
     "Headhunters_SecurityPatrol_H_Title_001": {
       "en": "Looking For Trouble",
@@ -1669,7 +1697,7 @@
     },
     "DeadSaints_RecoverCargo_Super_Title": {
       "en": "Lost But Not Gone",
-      "tr": "Lost But Not Gone\\n[死亡圣徒 - 取回货物 ERT]"
+      "tr": "迷失但并未消失\\n[死亡圣徒 - 取回货物 ERT]"
     },
     "EckhartSecurity_RecoverCargo_VeryEasy_Title": {
       "en": "Low Risk Cargo Retrieval",
@@ -1677,43 +1705,43 @@
     },
     "Eckhart_EscortShips_VE_title": {
       "en": "Low Risk Protection Detail",
-      "tr": "低风险安保派遣\\n[埃克哈特 - 飞船护航 VLRT][蓝图]"
+      "tr": "低风险安保派遣\\n[埃克哈特 - 飞船护航 VLRT]"
     },
     "Shubin_Industrial_HandMining_Pyro_H_PlanetarySystem_Title_001": {
       "en": "Lrg. Purchase Order: Hand Mined Materials",
-      "tr": "大批量采购订单：手工开采矿石[蓝图]"
+      "tr": "大批量采购订单：手工开采矿石"
     },
     "Shubin_Industrial_HandMining_Stanton_H_PlanetarySystem_Title_001": {
       "en": "Lrg. Purchase Order: Hand Mined Materials",
-      "tr": "大批量采购订单：手工开采矿石[蓝图]"
+      "tr": "大批量采购订单：手工开采矿石"
     },
     "Shubin_Industrial_HandMining_Stanton_H_Planetary_Solar_Title_001": {
       "en": "Lrg. Purchase Order: Hand Mined Materials",
-      "tr": "大批量采购订单：手工开采矿石[蓝图]"
+      "tr": "大批量采购订单：手工开采矿石"
     },
     "Shubin_Industrial_ShipMining_Nyx_H_Secondary_Title_001": {
       "en": "Lrg. Purchase Order: Ship Mined Ore",
-      "tr": "大批量采购订单：飞船开采矿石[蓝图]"
+      "tr": "大批量采购订单：飞船开采矿石"
     },
     "Shubin_Industrial_ShipMining_Pyro_H_PrimarySecondary_Title_001": {
       "en": "Lrg. Purchase Order: Ship Mined Ore",
-      "tr": "大批量采购订单：飞船开采矿石[蓝图]"
+      "tr": "大批量采购订单：飞船开采矿石"
     },
     "Shubin_Industrial_ShipMining_Stanton_H_Secondary_Interstellar_Title_001": {
       "en": "Lrg. Purchase Order: Ship Mined Ore",
-      "tr": "大批量采购订单：飞船开采矿石[蓝图]"
+      "tr": "大批量采购订单：飞船开采矿石"
     },
     "Shubin_Industrial_ShipMining_Pyro_H_Secondary_Title_001": {
       "en": "Lrg. Purchase Order: Ship Mined Ore",
-      "tr": "大批量采购订单：飞船开采矿石[蓝图]"
+      "tr": "大批量采购订单：飞船开采矿石"
     },
     "Shubin_Industrial_ShipMining_Stanton_H_PrimarySecondary_Title_001": {
       "en": "Lrg. Purchase Order: Ship Mined Ore",
-      "tr": "大批量采购订单：飞船开采矿石[蓝图]"
+      "tr": "大批量采购订单：飞船开采矿石"
     },
     "Shubin_Industrial_ShipMining_Stanton_H_Secondary_Title_001": {
       "en": "Lrg. Purchase Order: Ship Mined Ore",
-      "tr": "大批量采购订单：飞船开采矿石[蓝图]"
+      "tr": "大批量采购订单：飞船开采矿石"
     },
     "Shubin_Industrial_GroundVehicle_Pyro_H_Solar_Title_001": {
       "en": "Lrg. Purchase Order: Vehicle Mined Ore",
@@ -1745,11 +1773,11 @@
     },
     "Covalex_HaulCargo_AToB_title": {
       "en": "Rookie Rank - Direct Small Cargo Haul",
-      "tr": "[RANK] 级别 - 直达 [CARGO_GRADE] 货物运输\\n[科瓦莱什 - 一对一货运][蓝图]"
+      "tr": "[RANK] 级别 - 直达 [CARGO_GRADE] 货物运输\\n[科瓦莱什 - 一对一货运]"
     },
     "Covalex_HaulCargo_SingleToMulti_title": {
       "en": "Senior Rank - Medium Cargo Haul",
-      "tr": "[RANK] 级别 - [CARGO_GRADE] 货物运输\\n[科瓦莱什 - 一对多货运][蓝图]"
+      "tr": "[RANK] 级别 - [CARGO_GRADE] 货物运输\\n[科瓦莱什 - 一对多货运]"
     },
     "BHG_Certification_Super_Title": {
       "en": "Master Tracker License Certification",
@@ -1769,23 +1797,23 @@
     },
     "Shubin_Industrial_HandMining_Pyro_M_DiscoverPlanetary_Title_001": {
       "en": "Med. Purchase Order: Hand Mined Materials",
-      "tr": "中批量采购订单：手工开采矿石[蓝图]"
+      "tr": "中批量采购订单：手工开采矿石"
     },
     "Shubin_Industrial_HandMining_Stanton_M_DiscoverPlanetary_Title_001": {
       "en": "Med. Purchase Order: Hand Mined Materials",
-      "tr": "中批量采购订单：手工开采矿石[蓝图]"
+      "tr": "中批量采购订单：手工开采矿石"
     },
     "Shubin_Industrial_ShipMining_Nyx_M_Solar_Title_001": {
       "en": "Med. Purchase Order: Ship Mined Ore",
-      "tr": "中批量采购订单：飞船开采矿石[蓝图]"
+      "tr": "中批量采购订单：飞船开采矿石"
     },
     "Shubin_Industrial_ShipMining_Pyro_M_Solar_Title_001": {
       "en": "Med. Purchase Order: Ship Mined Ore",
-      "tr": "中批量采购订单：飞船开采矿石[蓝图]"
+      "tr": "中批量采购订单：飞船开采矿石"
     },
     "Shubin_Industrial_ShipMining_Stanton_M_Solar_Title_001": {
       "en": "Med. Purchase Order: Ship Mined Ore",
-      "tr": "中批量采购订单：飞船开采矿石[蓝图]"
+      "tr": "中批量采购订单：飞船开采矿石"
     },
     "Shubin_Industrial_GroundVehicle_Pyro_M_PlanetarySystem_Title_001": {
       "en": "Med. Purchase Order: Vehicle Mined Ore",
@@ -1805,15 +1833,15 @@
     },
     "Shubin_Industrial_ShipMining_Stanton_S_Secondary_Title_001": {
       "en": "Mjr. Purchase Order: Ship Mined Ore",
-      "tr": "主要采购订单：飞船开采矿石[蓝图]"
+      "tr": "主要采购订单：飞船开采矿石"
     },
     "Shubin_Industrial_ShipMining_Nyx_S_Secondary_Title_001": {
       "en": "Mjr. Purchase Order: Ship Mined Ore",
-      "tr": "主要采购订单：飞船开采矿石[蓝图]"
+      "tr": "主要采购订单：飞船开采矿石"
     },
     "Shubin_Industrial_ShipMining_Pyro_S_Secondary_Title_001": {
       "en": "Mjr. Purchase Order: Ship Mined Ore",
-      "tr": "主要采购订单：飞船开采矿石[蓝图]"
+      "tr": "主要采购订单：飞船开采矿石"
     },
     "cfp_maintenance_M_title_001": {
       "en": "Moderate Repairs Needed: [LOCATION]",
@@ -1837,11 +1865,11 @@
     },
     "headhunters_EliminateSpecific_CFP_M_title_001": {
       "en": "Need a CFP taken down",
-      "tr": "需要干掉一个繁荣公民[蓝图]"
+      "tr": "需要干掉一个繁荣公民"
     },
     "headhunters_EliminateSpecific_Asteroid_Generic_M_title_001": {
       "en": "Need a death at [LOCATION]",
-      "tr": "需要在 [LOCATION] 发生一起死亡事件[蓝图]"
+      "tr": "需要在 [LOCATION] 发生一起死亡事件"
     },
     "cfp_HaulCargo_RegionLink_title_001": {
       "en": "Need a Hauler",
@@ -1849,19 +1877,19 @@
     },
     "headhunters_eliminateall_base_Generic_E_title_001": {
       "en": "Need a hitter",
-      "tr": "需要打手[蓝图]"
+      "tr": "需要打手"
     },
     "cfp_ChainElimAll_3C_ElimSpec_GenAttack_M_title_001": {
       "en": "Need multiple CFP outposts retaken",
-      "tr": "需要夺回多个繁荣公民前哨站[蓝图]"
+      "tr": "需要夺回多个繁荣公民前哨站"
     },
     "RAIN_collectresources_single_OLP_name_01": {
       "en": "Need Resource for Research",
-      "tr": "需要研究资源[蓝图]"
+      "tr": "需要研究资源"
     },
     "headhunters_EliminateSpecific_Generic_M_title_001": {
       "en": "Need someone taken out",
-      "tr": "需要有人被处理掉[蓝图]"
+      "tr": "需要有人被处理掉"
     },
     "CFP_ShipWaveAttack_ClearHostiles_Title_H_001": {
       "en": "Neutralize Dangerous Criminal Fleet",
@@ -1869,15 +1897,15 @@
     },
     "Intersec_KillShip_Title_Medium_001": {
       "en": "Neutralize UEE Threat: [TARGET]",
-      "tr": "消除 UEE 威胁：[TARGET]\\n[互安防务 - 击杀飞船 MRT][蓝图]"
+      "tr": "消除 UEE 威胁：[TARGET]\\n[互安防务 - 击杀飞船 MRT]"
     },
     "Intersec_KillShip_Vanduul_Title_VeryHard_001": {
       "en": "Neutralize Vanduul Target",
-      "tr": "消灭剜度目标\\n[互安防务 - 击杀飞船 剜度 VHRT][蓝图]"
+      "tr": "消灭剜度目标\\n[互安防务 - 击杀飞船 剜度 VHRT]"
     },
     "Intersec_KillShip_Title_Intro_001": {
       "en": "New Defense Contract: [TARGET] Elimination",
-      "tr": "新防御合约：消灭 [TARGET]\\n[互安防务 - 击杀飞船 入门][蓝图]"
+      "tr": "新防御合约：消灭 [TARGET]\\n[互安防务 - 击杀飞船 入门]"
     },
     "searchbodyspace_title_intro": {
       "en": "NEW HIRE: Locate Missing Person",
@@ -1893,7 +1921,7 @@
     },
     "Eckhart_ShipAmbush_Intro_title": {
       "en": "New Opportunity - Ambush Strike",
-      "tr": "新机会 - 埋伏突袭\\n[埃克哈特 - 伏击 入门][蓝图]"
+      "tr": "新机会 - 埋伏突袭\\n[埃克哈特 - 伏击 入门]"
     },
     "headhunters_bombingrun_E_title_001": {
       "en": "No Fly Zone",
@@ -1921,7 +1949,7 @@
     },
     "Intersec_DefendShip_Title_Medium_001": {
       "en": "Operative Extraction",
-      "tr": "人员撤离\\n[互安防务 - 保卫飞船 MRT][蓝图]"
+      "tr": "人员撤离\\n[互安防务 - 保卫飞船 MRT]"
     },
     "Covalex_HaulCargo_AToB_Intro_title": {
       "en": "Opportunity for Independent Cargo Hauler",
@@ -1929,15 +1957,15 @@
     },
     "foxwell_DefendShip_M_title_001": {
       "en": "Orange Level Contract: [SHIP] Needs Assistance",
-      "tr": "橙色级别合约：[SHIP] 需要援助[蓝图]"
+      "tr": "橙色级别合约：[SHIP] 需要援助"
     },
     "Foxwell_bombingrun_H_title_001": {
       "en": "Orange Level Contract: Destroy Outlaw Infrastructure",
-      "tr": "橙色级别合约：摧毁非法基础设施\\n[福克斯韦尔 - 轰炸 HRT][蓝图]"
+      "tr": "橙色级别合约：摧毁非法基础设施\\n[福克斯韦尔 - 轰炸 HRT]"
     },
     "Foxwell_ShipWaveAttack_ClearHostiles_Title_M_001": {
       "en": "Orange Level Contract: Destroy Outlaw Threat",
-      "tr": "橙色级别合约：铲除不法分子威胁\\n[福克斯韦尔 - 击杀飞船 MRT 多波次][蓝图]"
+      "tr": "橙色级别合约：铲除不法分子威胁\\n[福克斯韦尔 - 击杀飞船 MRT 多波次]"
     },
     "destroyprobelegal_title": {
       "en": "Orange Level Contract: Handle Security Threat",
@@ -1945,59 +1973,59 @@
     },
     "Foxwell_destroyprobe_M_name_001": {
       "en": "Orange Level Contract: Handle Security Threat",
-      "tr": "橙色级别合约：处理安全威胁\\n[福克斯韦尔 - 摧毁监视器 MRT][蓝图]"
+      "tr": "橙色级别合约：处理安全威胁\\n[福克斯韦尔 - 摧毁监视器 MRT]"
     },
     "Foxwell_SecurityPatrol_H_Title_001": {
       "en": "Orange Level Contract: Potential Security Threat",
-      "tr": "橙色级别合约：潜在安全威胁[蓝图]"
+      "tr": "橙色级别合约：潜在安全威胁"
     },
     "Foxwell_DefendLocation_H_Title_001": {
       "en": "Orange Level Contract: Protect Our Client’s Interests",
-      "tr": "橙色级别合约：保护我们客户的利益[蓝图]"
+      "tr": "橙色级别合约：保护我们客户的利益"
     },
     "Foxwell_ShipAmbush_H_title_001": {
       "en": "Orange Level Contract: Return the Favor",
-      "tr": "橙色级别合约：以牙还牙[蓝图]"
+      "tr": "橙色级别合约：以牙还牙"
     },
     "Foxwell_SecurityPatrol_M_Title_001": {
       "en": "Orange Level Contract: Security Patrol",
-      "tr": "橙色级别合约：安保巡逻[蓝图]"
+      "tr": "橙色级别合约：安保巡逻"
     },
     "Foxwell_DefendLocation_M_Title_001": {
       "en": "Orange Level Contract: Ship Protection Needed",
-      "tr": "橙色级别合约：需要飞船保护[蓝图]"
+      "tr": "橙色级别合约：需要飞船保护"
     },
     "Foxwell_ShipAmbush_M_title_001": {
       "en": "Orange Level Contract: Spring a Trap",
-      "tr": "橙色级别合约：设下圈套[蓝图]"
+      "tr": "橙色级别合约：设下圈套"
     },
     "Foxwell_ShipWaveAttack_ClearHostiles_Title_H_001": {
       "en": "Orange Level Contract: Take Out Criminal Fleet",
-      "tr": "橙色级别合约：端掉犯罪舰队\\n[福克斯韦尔 - 击杀飞船 HRT 多波次][蓝图]"
+      "tr": "橙色级别合约：端掉犯罪舰队\\n[福克斯韦尔 - 击杀飞船 HRT 多波次]"
     },
     "Foxwell_bombingrun_M_title_001": {
       "en": "Orange Level Contract: Take Out Fuel Supplies",
-      "tr": "橙色级别合约：摧毁燃料补给\\n[福克斯韦尔 - 轰炸 MRT][蓝图]"
+      "tr": "橙色级别合约：摧毁燃料补给\\n[福克斯韦尔 - 轰炸 MRT]"
     },
     "Foxwell_DefendDestructibleEntites_M_Title_001": {
       "en": "Orange Lvl. Contract: Defend Fuel Tanks",
-      "tr": "橙色级别合约：保卫 [OBJECTS]\\n[福克斯韦尔 - 保护可摧毁实体 MRT][蓝图]"
+      "tr": "橙色级别合约：保卫 [OBJECTS]\\n[福克斯韦尔 - 保护可摧毁实体 MRT]"
     },
     "Foxwell_DefendEntitesAndEscort_M_Title": {
       "en": "Orange Lvl. Contract: Defend Fuel Tanks and Escort Employees",
-      "tr": "橙色级别合约：保卫 [OBJECTS] 并护送员工\\n[福克斯韦尔 - 保护实体并护航 MRT][蓝图]"
+      "tr": "橙色级别合约：保卫 [OBJECTS] 并护送员工\\n[福克斯韦尔 - 保护实体并护航 MRT]"
     },
     "Foxwell_DefendDestructibleEntites_H_Title_001": {
       "en": "Orange Lvl. Contract: Protect Fuel Tanks",
-      "tr": "橙色级别合约：保护 [OBJECTS]\\n[福克斯韦尔 - 保护可摧毁实体 HRT][蓝图]"
+      "tr": "橙色级别合约：保护 [OBJECTS]\\n[福克斯韦尔 - 保护可摧毁实体 HRT]"
     },
     "Foxwell_DefendEntitesAndEscort_H_Title": {
       "en": "Orange Lvl. Contract: Protect Fuel Tanks and Escort Employees",
-      "tr": "橙色级别合约：保护 [OBJECTS] 并护送员工\\n[福克斯韦尔 - 保护实体并护航 HRT][蓝图]"
+      "tr": "橙色级别合约：保护 [OBJECTS] 并护送员工\\n[福克斯韦尔 - 保护实体并护航 HRT]"
     },
     "cfp_ChainElimAll_2C_ElimSpec_GenAttack_M_title_001": {
       "en": "Outlaw attack at [LOCATION]",
-      "tr": "不法分子在攻击 [LOCATION][蓝图]"
+      "tr": "不法分子在攻击 [LOCATION]"
     },
     "headhunters_bombingrun_S_title_001": {
       "en": "Outsmarting our Enemies",
@@ -2005,7 +2033,7 @@
     },
     "headhunters_EliminateSpecific_CFP_H_title_001": {
       "en": "Paid Target in CFP",
-      "tr": "繁荣公民里的付费目标[蓝图]"
+      "tr": "繁荣公民里的付费目标"
     },
     "CFP_SecurityPatrol_VH_Title_001": {
       "en": "Patrol Dangerous Outlaw Sector",
@@ -2013,7 +2041,7 @@
     },
     "InterSec_SecurityPatrol_H_Title_001": {
       "en": "Patrol Dangerous Sector",
-      "tr": "巡逻危险区域\\n[互安防务 - 巡逻 HRT][蓝图]"
+      "tr": "巡逻危险区域\\n[互安防务 - 巡逻 HRT]"
     },
     "CFP_SecurityPatrol_M_Title_001": {
       "en": "Patrol Dangerous Travel Lanes",
@@ -2033,7 +2061,7 @@
     },
     "InterSec_SecurityPatrol_VH_Title_001": {
       "en": "Patrol to Prevent Possible Attack",
-      "tr": "巡逻以防范可能的袭击\\n[互安防务 - 巡逻 VHRT][蓝图]"
+      "tr": "巡逻以防范可能的袭击\\n[互安防务 - 巡逻 VHRT]"
     },
     "CFP_SecurityPatrol_VE_Title_001": {
       "en": "Patrol Travel Lanes",
@@ -2041,7 +2069,7 @@
     },
     "InterSec_SecurityPatrol_S_Title_001": {
       "en": "Patrol Vanduul Hunting Ground",
-      "tr": "巡逻剜度狩猎场\\n[互安防务 - 巡逻 ERT][蓝图]"
+      "tr": "巡逻剜度狩猎场\\n[互安防务 - 巡逻 ERT]"
     },
     "TheCollector_Ships_Peregrine_TItle": {
       "en": "Peregrine Wikelo Mod",
@@ -2049,19 +2077,19 @@
     },
     "cfp_defendship_VLRT_title_001": {
       "en": "Pilot in Distress",
-      "tr": "危机中的飞行员\\n[繁荣公民 - 保卫飞船 VLRT][蓝图]"
+      "tr": "危机中的飞行员\\n[繁荣公民 - 保卫飞船 VLRT]"
     },
     "cfp_defendship_LRT_title_001": {
       "en": "Pilot Seeking Combat Support",
-      "tr": "飞行员寻求战斗支援\\n[繁荣公民 - 保卫飞船 LRT][蓝图]"
+      "tr": "飞行员寻求战斗支援\\n[繁荣公民 - 保卫飞船 LRT]"
     },
     "Intersec_DefendShip_Vanduul_Title_VeryHard_001": {
       "en": "Pilot Under Fire From Vanduul",
-      "tr": "遭到剜度攻击的飞行员\\n[互安防务 - 保卫飞船 VHRT][蓝图]"
+      "tr": "遭到剜度攻击的飞行员\\n[互安防务 - 保卫飞船 VHRT]"
     },
     "headhunters_EliminateSpecific_Defector_title_001": {
       "en": "Plug a traitor",
-      "tr": "干掉叛徒[蓝图]"
+      "tr": "干掉叛徒"
     },
     "Hockrow_searchbody_space_E_Title_001": {
       "en": "Potential Assassin Victim: [TARGET]",
@@ -2069,11 +2097,11 @@
     },
     "Foxwell_EliminateSpecific_NonHostiles_title_001": {
       "en": "Precision Strike on [TARGET]",
-      "tr": "精确打击 [TARGET][蓝图]"
+      "tr": "精确打击 [TARGET]"
     },
     "Intersec_KillShip_Title_Hard_001": {
       "en": "Preemptive Strike On [TARGET]",
-      "tr": "先发打击 [TARGET]\\n[互安防务 - 击杀飞船 HRT][蓝图]"
+      "tr": "先发打击 [TARGET]\\n[互安防务 - 击杀飞船 HRT]"
     },
     "bhg_bounty_title_FPS_intro": {
       "en": "Preliminary Bounty: [TARGET]",
@@ -2081,7 +2109,7 @@
     },
     "headhunters_killship_cfp_vhrt_title_001": {
       "en": "Primo Target",
-      "tr": "首要目标[蓝图]"
+      "tr": "首要目标"
     },
     "northrock_bounty_prisoner_title_intro": {
       "en": "Pro Tem Escapee Bounty Contract",
@@ -2097,15 +2125,15 @@
     },
     "cfp_defend-xenothreat_title_001": {
       "en": "Protect [LOCATION] from XenoThreat Attack",
-      "tr": "保护 [LOCATION] 抵御异种威胁的攻击[蓝图]"
+      "tr": "保护 [LOCATION] 抵御异种威胁的攻击"
     },
     "cfp_defend-xenothreat_title_003": {
       "en": "Protect [LOCATION] from XenoThreat Incursion",
-      "tr": "保护 [LOCATION] 抵御异种威胁的入侵[蓝图]"
+      "tr": "保护 [LOCATION] 抵御异种威胁的入侵"
     },
     "cfp_defend-xenothreat_title_002": {
       "en": "Protect [LOCATION] from XenoThreat Raid",
-      "tr": "保护 [LOCATION] 抵御异种威胁的袭击[蓝图]"
+      "tr": "保护 [LOCATION] 抵御异种威胁的袭击"
     },
     "Headhunters_DefendDestructibleEntites_E_Title_001": {
       "en": "Protect Fuel Tanks From Luggers",
@@ -2121,11 +2149,11 @@
     },
     "Intersec_DefendShip_Title_Hard_001": {
       "en": "Protect Vital Asset",
-      "tr": "保护重要资产\\n[互安防务 - 保卫飞船 HRT][蓝图]"
+      "tr": "保护重要资产\\n[互安防务 - 保卫飞船 HRT]"
     },
     "cfp_eliminateall_fromCFP_XT_M_title_001": {
       "en": "Protecting outpost from XenoThreat",
-      "tr": "保护前哨站免受异种威胁攻击[蓝图]"
+      "tr": "保护前哨站免受异种威胁攻击"
     },
     "cfp_EliminateSpecific_Generic_E_title_001": {
       "en": "Protection against [TARGET]",
@@ -2133,11 +2161,15 @@
     },
     "Eckhart_EscortShips_VH_title": {
       "en": "Protection Detail Needed. High Risk.",
-      "tr": "需要安保派遣。高风险。\\n[埃克哈特 - 飞船护航 VHRT][蓝图]"
+      "tr": "需要安保派遣。高风险。\\n[埃克哈特 - 飞船护航 VHRT]"
+    },
+    "cfp_defendship_LRT_SB_title_001": {
+      "en": "Provide Combat Support",
+      "tr": "提供战斗支援\\n[繁荣公民 - 保卫飞船 碎刃帮 LRT]"
     },
     "HeadHunters_DefendEntitesAndEscort_E_Title": {
       "en": "Provide Protection at [LOCATION]",
-      "tr": "在 [LOCATION] 提供保护\\n[猎头帮 - 保护实体并护航 LRT][蓝图]"
+      "tr": "在 [LOCATION] 提供保护\\n[猎头帮 - 保护实体并护航 LRT]"
     },
     "TheCollector_Ships_Prowler_Util_Title": {
       "en": "Prowler More Utility",
@@ -2159,13 +2191,129 @@
       "en": "Putting a Mind at Ease",
       "tr": "让人安心\\n[沃恩 - 寻找尸体 VLRT]"
     },
+    "shubin_rockcracker_pvp_title_specific_24": {
+      "en": "QV Breaker Station BRK-110 Mining Rights (Shared)",
+      "tr": "QV 碎岩站 BRK-110 采矿权（共享）"
+    },
+    "shubin_rockcracker_pvp_title_specific_04": {
+      "en": "QV Breaker Station BRK-127 Mining Rights (Shared)",
+      "tr": "QV 碎岩站 BRK-127 采矿权（共享）"
+    },
+    "shubin_rockcracker_pvp_title_specific_13": {
+      "en": "QV Breaker Station BRK-184 Mining Rights (Shared)",
+      "tr": "QV 碎岩站 BRK-184 采矿权（共享）"
+    },
+    "shubin_rockcracker_pvp_title_specific_30": {
+      "en": "QV Breaker Station BRK-223 Mining Rights (Shared)",
+      "tr": "QV 碎岩站 BRK-223 采矿权（共享）"
+    },
+    "shubin_rockcracker_pvp_title_specific_08": {
+      "en": "QV Breaker Station BRK-235 Mining Rights (Shared)",
+      "tr": "QV 碎岩站 BRK-235 采矿权（共享）"
+    },
+    "shubin_rockcracker_pvp_title_specific_07": {
+      "en": "QV Breaker Station BRK-267 Mining Rights (Shared)",
+      "tr": "QV 碎岩站 BRK-267 采矿权（共享）"
+    },
+    "shubin_rockcracker_pvp_title_specific_19": {
+      "en": "QV Breaker Station BRK-284 Mining Rights (Shared)",
+      "tr": "QV 碎岩站 BRK-284 采矿权（共享）"
+    },
+    "shubin_rockcracker_pvp_title_specific_09": {
+      "en": "QV Breaker Station BRK-304 Mining Rights (Shared)",
+      "tr": "QV 碎岩站 BRK-304 采矿权（共享）"
+    },
+    "shubin_rockcracker_pvp_title_specific_02": {
+      "en": "QV Breaker Station BRK-320 Mining Rights (Shared)",
+      "tr": "QV 碎岩站 BRK-320 采矿权（共享）"
+    },
+    "shubin_rockcracker_pvp_title_specific_05": {
+      "en": "QV Breaker Station BRK-425 Mining Rights (Shared)",
+      "tr": "QV 碎岩站 BRK-425 采矿权（共享）"
+    },
+    "shubin_rockcracker_pvp_title_specific_20": {
+      "en": "QV Breaker Station BRK-437 Mining Rights (Shared)",
+      "tr": "QV 碎岩站 BRK-437 采矿权（共享）"
+    },
+    "shubin_rockcracker_pvp_title_specific_10": {
+      "en": "QV Breaker Station BRK-521 Mining Rights (Shared)",
+      "tr": "QV 碎岩站 BRK-521 采矿权（共享）"
+    },
+    "shubin_rockcracker_pvp_title_specific_27": {
+      "en": "QV Breaker Station BRK-529 Mining Rights (Shared)",
+      "tr": "QV 碎岩站 BRK-529 采矿权（共享）"
+    },
+    "shubin_rockcracker_pvp_title_specific_12": {
+      "en": "QV Breaker Station BRK-542 Mining Rights (Shared)",
+      "tr": "QV 碎岩站 BRK-542 采矿权（共享）"
+    },
+    "shubin_rockcracker_pvp_title_specific_03": {
+      "en": "QV Breaker Station BRK-546 Mining Rights (Shared)",
+      "tr": "QV 碎岩站 BRK-546 采矿权（共享）"
+    },
+    "shubin_rockcracker_pvp_title_specific_16": {
+      "en": "QV Breaker Station BRK-563 Mining Rights (Shared)",
+      "tr": "QV 碎岩站 BRK-563 采矿权（共享）"
+    },
+    "shubin_rockcracker_pvp_title_specific_23": {
+      "en": "QV Breaker Station BRK-597 Mining Rights (Shared)",
+      "tr": "QV 碎岩站 BRK-597 采矿权（共享）"
+    },
+    "shubin_rockcracker_pvp_title_specific_06": {
+      "en": "QV Breaker Station BRK-608 Mining Rights (Shared)",
+      "tr": "QV 碎岩站 BRK-608 采矿权（共享）"
+    },
+    "shubin_rockcracker_pvp_title_specific_21": {
+      "en": "QV Breaker Station BRK-630 Mining Rights (Shared)",
+      "tr": "QV 碎岩站 BRK-630 采矿权（共享）"
+    },
+    "shubin_rockcracker_pvp_title_specific_28": {
+      "en": "QV Breaker Station BRK-709 Mining Rights (Shared)",
+      "tr": "QV 碎岩站 BRK-709 采矿权（共享）"
+    },
+    "shubin_rockcracker_pvp_title_specific_18": {
+      "en": "QV Breaker Station BRK-711 Mining Rights (Shared)",
+      "tr": "QV 碎岩站 BRK-711 采矿权（共享）"
+    },
+    "shubin_rockcracker_pvp_title_specific_29": {
+      "en": "QV Breaker Station BRK-766 Mining Rights (Shared)",
+      "tr": "QV 碎岩站 BRK-766 采矿权（共享）"
+    },
+    "shubin_rockcracker_pvp_title_specific_17": {
+      "en": "QV Breaker Station BRK-782 Mining Rights (Shared)",
+      "tr": "QV 碎岩站 BRK-782 采矿权（共享）"
+    },
+    "shubin_rockcracker_pvp_title_specific_26": {
+      "en": "QV Breaker Station BRK-864 Mining Rights (Shared)",
+      "tr": "QV 碎岩站 BRK-864 采矿权（共享）"
+    },
+    "shubin_rockcracker_pvp_title_specific_15": {
+      "en": "QV Breaker Station BRK-879 Mining Rights (Shared)",
+      "tr": "QV 碎岩站 BRK-879 采矿权（共享）"
+    },
+    "shubin_rockcracker_pvp_title_specific_22": {
+      "en": "QV Breaker Station BRK-892 Mining Rights (Shared)",
+      "tr": "QV 碎岩站 BRK-892 采矿权（共享）"
+    },
+    "shubin_rockcracker_pvp_title_specific_25": {
+      "en": "QV Breaker Station BRK-913 Mining Rights (Shared)",
+      "tr": "QV 碎岩站 BRK-913 采矿权（共享）"
+    },
+    "shubin_rockcracker_pvp_title_specific_14": {
+      "en": "QV Breaker Station BRK-970 Mining Rights (Shared)",
+      "tr": "QV 碎岩站 BRK-970 采矿权（共享）"
+    },
+    "shubin_rockcracker_pvp_title_specific_11": {
+      "en": "QV Breaker Station BRK-985 Mining Rights (Shared)",
+      "tr": "QV 碎岩站 BRK-985 采矿权（共享）"
+    },
     "shubin_rockcracker_solo_title_01": {
       "en": "QV Breaker Station Mining Rights (Exclusive)",
-      "tr": "QV 碎岩站采矿权（独占）[蓝图]"
+      "tr": "QV 碎岩站采矿权（独占）"
     },
     "shubin_rockcracker_pvp_title_01": {
       "en": "QV Breaker Station Mining Rights (Shared)",
-      "tr": "QV 碎岩站采矿权（共享）[蓝图]"
+      "tr": "QV 碎岩站采矿权（共享）"
     },
     "headhunters_defendship_multi_VHRT_PA_title_001": {
       "en": "Rally to Help Clips Convoy",
@@ -2177,19 +2325,19 @@
     },
     "cfp_eliminateall_hh_E_title_001": {
       "en": "Reclaim Headhunter Outpost",
-      "tr": "夺回猎头帮前哨站[蓝图]"
+      "tr": "夺回猎头帮前哨站"
     },
     "cfp_eliminateall_XT_E_title_001": {
       "en": "Reclaim XenoThreat Outpost",
-      "tr": "夺回异种威胁前哨站[蓝图]"
+      "tr": "夺回异种威胁前哨站"
     },
     "cfp_ChainElimAll_3C_ElimSpec_HHAttack_VH_title_001": {
       "en": "Reclaiming Clusters from Headhunters",
-      "tr": "从猎头帮手里夺回前哨站集群[蓝图]"
+      "tr": "从猎头帮手里夺回前哨站集群"
     },
     "cfp_ChainElimAll_2C_ElimSpec_XTAttack_H_title_001": {
       "en": "Reclaiming Outposts from XenoThreat",
-      "tr": "从异种威胁手中夺回前哨站[蓝图]"
+      "tr": "从异种威胁手中夺回前哨站"
     },
     "BHG_ShipWaveAttack_DrawOutBoss_S_Title_001": {
       "en": "Reclusive Bounty: [TARGET] | Extreme Risk",
@@ -2205,11 +2353,11 @@
     },
     "InterSec_ResourceGathering_Cryopods_Title": {
       "en": "Recover Vanduul Corpses",
-      "tr": "取回剜度尸体\\n[互安防务 - 资源收集 剜度尸体][蓝图]"
+      "tr": "取回剜度尸体\\n[互安防务 - 资源收集 剜度尸体]"
     },
     "InterSec_ResourceGathering_Tech_Title": {
       "en": "Recover Vanduul Tech",
-      "tr": "取回剜度科技\\n[互安防务 - 资源收集 剜度科技][蓝图]"
+      "tr": "取回剜度科技\\n[互安防务 - 资源收集 剜度科技]"
     },
     "Covalex_RecoverCargo_Super_Title": {
       "en": "Recover VIP Covalex Shipment",
@@ -2217,7 +2365,7 @@
     },
     "CFP_RecoverCargo_Medium_Title": {
       "en": "Recovering Valuable Supplies",
-      "tr": "回收珍贵物资\\n[繁荣公民 - 取回货物 MRT][蓝图]"
+      "tr": "回收珍贵物资\\n[繁荣公民 - 取回货物 MRT]"
     },
     "TheCollector_Recipes_Title_ApolloSkin": {
       "en": "Red Fight Apollo",
@@ -2233,67 +2381,67 @@
     },
     "Foxwell_ShipAmbush_VH_title_001": {
       "en": "Red Level Contract: Ambush Attack Squad",
-      "tr": "红色级别合约：伏击攻击小队[蓝图]"
+      "tr": "红色级别合约：伏击攻击小队"
     },
     "Foxwell_HaulCargo_MultiToSingle_title_01": {
       "en": "Red Level Contract: Clear PAFs, Recover Cargo, and Deliver to OLP",
-      "tr": "红色级别合约：清理平台校准设施，回收货物并送至轨道激光平台[蓝图]"
+      "tr": "红色级别合约：清理平台校准设施，回收货物并送至轨道激光平台"
     },
     "Foxwell_bombingrun_S_title_001": {
       "en": "Red Level Contract: Destroy Outlaw Infrastructure",
-      "tr": "红色级别合约：摧毁非法基础设施\\n[福克斯韦尔 - 轰炸 ERT][蓝图]"
+      "tr": "红色级别合约：摧毁非法基础设施\\n[福克斯韦尔 - 轰炸 ERT]"
     },
     "Foxwell_bombingrun_VH_title_001": {
       "en": "Red Level Contract: Fuel Container Demolition",
-      "tr": "红色级别合约：拆毁燃料罐\\n[福克斯韦尔 - 轰炸 VHRT][蓝图]"
+      "tr": "红色级别合约：拆毁燃料罐\\n[福克斯韦尔 - 轰炸 VHRT]"
     },
     "Foxwell_SecurityPatrol_VH_Title_001": {
       "en": "Red Level Contract: High-Risk Security Patrol",
-      "tr": "红色级别合约：高风险安保巡逻[蓝图]"
+      "tr": "红色级别合约：高风险安保巡逻"
     },
     "Foxwell_HaulCargo_AToB_PAF_title_01": {
       "en": "Red Level Contract: Recoup Stolen Cargo Haul",
-      "tr": "红色级别合约：追回被盗货物[蓝图]"
+      "tr": "红色级别合约：追回被盗货物"
     },
     "Foxwell_HaulCargo_AToB_OLP_title_01": {
       "en": "Red Level Contract: Retrieve Cargo Haul",
-      "tr": "红色级别合约：回收货物[蓝图]"
+      "tr": "红色级别合约：回收货物"
     },
     "Foxwell_DefendLocation_VH_Title_001": {
       "en": "Red Level Contract: Save Ships at [LOCATION]",
-      "tr": "红色级别合约：营救 [LOCATION] 的飞船[蓝图]"
+      "tr": "红色级别合约：营救 [LOCATION] 的飞船"
     },
     "Foxwell_SecurityPatrol_S_Title_001": {
       "en": "Red Level Contract: Secure Threatened Space",
-      "tr": "红色级别合约：保卫受威胁空域[蓝图]"
+      "tr": "红色级别合约：保卫受威胁空域"
     },
     "foxwell_DefendShip_H_title_001": {
       "en": "Red Level Contract: Ship Under Attack",
-      "tr": "红色级别合约：飞船遭到攻击[蓝图]"
+      "tr": "红色级别合约：飞船遭到攻击"
     },
     "Foxwell_DefendLocation_S_Title_001": {
       "en": "Red Level Contract: Support VIP Clients",
-      "tr": "红色级别合约：支援 VIP 客户[蓝图]"
+      "tr": "红色级别合约：支援 VIP 客户"
     },
     "Foxwell_ShipAmbush_S_title_001": {
       "en": "Red Level Contract: Surprise Attack",
-      "tr": "红色级别合约：突袭攻击[蓝图]"
+      "tr": "红色级别合约：突袭攻击"
     },
     "Foxwell_DefendDestructibleEntites_VH_Title_001": {
       "en": "Red Lvl. Contract: Defend Fuel Tanks",
-      "tr": "红色级别合约：保卫 [OBJECTS]\\n[福克斯韦尔 - 保护可摧毁实体 VHRT][蓝图]"
+      "tr": "红色级别合约：保卫 [OBJECTS]\\n[福克斯韦尔 - 保护可摧毁实体 VHRT]"
     },
     "Foxwell_DefendEntitesAndEscort_VH_Title": {
       "en": "Red Lvl. Contract: Defend Fuel Tanks and Escort Employees",
-      "tr": "红色级别合约：保卫 [OBJECTS] 并护送员工\\n[福克斯韦尔 - 保护实体并护航 VHRT][蓝图]"
+      "tr": "红色级别合约：保卫 [OBJECTS] 并护送员工\\n[福克斯韦尔 - 保护实体并护航 VHRT]"
     },
     "Foxwell_DefendDestructibleEntites_S_Title_001": {
       "en": "Red Lvl. Contract: Protect Fuel Tanks",
-      "tr": "红色级别合约：保护 [OBJECTS]\\n[福克斯韦尔 - 保护可摧毁实体 ERT][蓝图]"
+      "tr": "红色级别合约：保护 [OBJECTS]\\n[福克斯韦尔 - 保护可摧毁实体 ERT]"
     },
     "Foxwell_DefendEntitesAndEscort_S_Title": {
       "en": "Red Lvl. Contract: Protect Fuel Tanks and Escort Employees",
-      "tr": "红色级别合约：保护 [OBJECTS] 并护送员工\\n[福克斯韦尔 - 保护实体并护航 ERT][蓝图]"
+      "tr": "红色级别合约：保护 [OBJECTS] 并护送员工\\n[福克斯韦尔 - 保护实体并护航 ERT]"
     },
     "RedWind_RecoverCargo_Hard_Title": {
       "en": "Red Wind Challenging Cargo Recovery",
@@ -2321,7 +2469,7 @@
     },
     "cfp_bombingrun_sabotage_generators_title_001": {
       "en": "Reduce Outlaw's Operational Readiness",
-      "tr": "减少不法分子的作战储备[蓝图]"
+      "tr": "减少不法分子的作战储备"
     },
     "Highpoint_KillAnimals_OneType_title": {
       "en": "Reduce Overpopulation",
@@ -2329,7 +2477,7 @@
     },
     "Highpoint_KillAnimals_rockcracker_title_E_001": {
       "en": "Reduce Valakkar Breaker Station Population",
-      "tr": "削减碎岩站的瓦拉卡种群数量\\n[高境荒野 - 击杀动物 LRT 碎岩站][蓝图]"
+      "tr": "削减碎岩站的瓦拉卡种群数量\\n[高境荒野 - 击杀动物 LRT 碎岩站]"
     },
     "UWC_Refueling_easy_title_001": {
       "en": "REFUEL REQUEST: [SHIP]",
@@ -2343,13 +2491,21 @@
       "en": "Repel Raiders",
       "tr": "击退袭击者\\n[埃克哈特 - 保卫站点 HRT]"
     },
+    "eckhart_defendship_MRT_SB_title_001": {
+      "en": "Repel Shattered Blade Ships",
+      "tr": "击退碎刃帮的飞船\\n[埃克哈特 - 保卫飞船 碎刃帮 MRT]"
+    },
     "HeadHunters_ShipAmbush_H_title_001": {
       "en": "Reprisal Attack",
       "tr": "报复行动\\n[猎头帮 - 伏击 HRT]"
     },
     "headhunters_eliminateall_outpost_title_01": {
       "en": "Reputation Management",
-      "tr": "声誉管理[蓝图]"
+      "tr": "声誉管理"
+    },
+    "eckhart_defendship_LRT_SB_title_001": {
+      "en": "Request for Ship Support",
+      "tr": "请求飞船支援\\n[埃克哈特 - 保卫飞船 碎刃帮 LRT]"
     },
     "EckhartSecurity_EliminateAll_storm_shut_H_title_001": {
       "en": "Requesting Help",
@@ -2357,11 +2513,11 @@
     },
     "LingFamily_RecoverCargo_Medium_Title": {
       "en": "Rescue Incomplete Ling Delivery",
-      "tr": "抢救邻家快递未完成的交付\\n[玲家快递 - 取回货物 中等难度 无战斗]"
+      "tr": "抢救玲家快递未完成的交付\\n[玲家快递 - 取回货物 中等难度 无战斗]"
     },
     "cfp_defendship_multi_VHRT_title_001": {
       "en": "Respond to Distress Beacon",
-      "tr": "响应求救信标\\n[繁荣公民 - 保卫飞船 VHRT][蓝图]"
+      "tr": "响应求救信标\\n[繁荣公民 - 保卫飞船 VHRT]"
     },
     "Headhunters_DefendLocation_S_Title_001": {
       "en": "Restore Order at [LOCATION]",
@@ -2369,7 +2525,7 @@
     },
     "cfp_ChainElimAll_2C_ElimSpec_HHAttack_H_title_001": {
       "en": "Retaking Outposts from Headhunters",
-      "tr": "从猎头帮手中夺回前哨站[蓝图]"
+      "tr": "从猎头帮手中夺回前哨站"
     },
     "DeadSaints_RecoverCargo_Medium_Title": {
       "en": "Retrieval Op",
@@ -2377,7 +2533,7 @@
     },
     "Kaboos_Mission_Title": {
       "en": "Retrieve Additional Smuggler Intel",
-      "tr": "获取更多走私犯情报\\n[互安防务 - 调查剜度科技走私][蓝图]"
+      "tr": "获取更多走私犯情报\\n[互安防务 - 调查剜度科技走私]"
     },
     "TheCollector_Ships_Meteor_Title": {
       "en": "RSI Meteor Mod",
@@ -2389,39 +2545,39 @@
     },
     "Adagio_Industrial_Component_Salvage_Levski_H_Title_001": {
       "en": "Salvager Needed (Lrg. Special Order of RMC / UCM / Components)",
-      "tr": "需要打捞人员 (大型特别订单 RMC / UCM / 组件)[蓝图]"
+      "tr": "需要打捞人员 (大型特别订单 RMC / UCM / 组件)"
     },
     "Adagio_Industrial_Component_Salvage_Pyro_H_Title_001": {
       "en": "Salvager Needed (Lrg. Special Order of RMC / UCM / Components)",
-      "tr": "需要打捞人员 (大型特别订单 RMC / UCM / 组件)[蓝图]"
+      "tr": "需要打捞人员 (大型特别订单 RMC / UCM / 组件)"
     },
     "Adagio_Industrial_Component_Salvage_Stanton_H_Title_001": {
       "en": "Salvager Needed (Lrg. Special Order of RMC / UCM / Components)",
-      "tr": "需要打捞人员 (大型特别订单 RMC / UCM / 组件)[蓝图]"
+      "tr": "需要打捞人员 (大型特别订单 RMC / UCM / 组件)"
     },
     "Adagio_Industrial_Component_Salvage_Universal_H_Title_001": {
       "en": "Salvager Needed (Lrg. Supply of RMC / UCM / Components)",
-      "tr": "需要打捞人员 (大量供应 RMC / UCM / 组件)[蓝图]"
+      "tr": "需要打捞人员 (大量供应 RMC / UCM / 组件)"
     },
     "Adagio_Industrial_Component_Salvage_Levski_M_Title_001": {
       "en": "Salvager Needed (Med. Special Order of RMC / UCM / Components)",
-      "tr": "需要打捞人员 (中型特别订单 RMC / UCM / 组件)[蓝图]"
+      "tr": "需要打捞人员 (中型特别订单 RMC / UCM / 组件)"
     },
     "Adagio_Industrial_Component_Salvage_Pyro_M_Title_001": {
       "en": "Salvager Needed (Med. Special Order of RMC / UCM / Components)",
-      "tr": "需要打捞人员 (中型特别订单 RMC / UCM / 组件)[蓝图]"
+      "tr": "需要打捞人员 (中型特别订单 RMC / UCM / 组件)"
     },
     "Adagio_Industrial_Component_Salvage_Stanton_M_Title_001": {
       "en": "Salvager Needed (Med. Special Order of RMC / UCM / Components)",
-      "tr": "需要打捞人员 (中型特别订单 RMC / UCM / 组件)[蓝图]"
+      "tr": "需要打捞人员 (中型特别订单 RMC / UCM / 组件)"
     },
     "Adagio_Industrial_Component_Salvage_Universal_M_Title_001": {
       "en": "Salvager Needed (Med. Supply of RMC / UCM / Components)",
-      "tr": "需要打捞人员 (中等量供应 RMC / UCM / 组件)[蓝图]"
+      "tr": "需要打捞人员 (中等量供应 RMC / UCM / 组件)"
     },
     "Adagio_Industrial_Salvage_Universal_M_Title_001": {
       "en": "Salvager Needed (Med. Supply of RMC)",
-      "tr": "需要打捞人员 (中等量供应 RMC)[蓝图]"
+      "tr": "需要打捞人员 (中等量供应 RMC)"
     },
     "Adagio_Industrial_Component_Salvage_Levski_E_Title_001": {
       "en": "Salvager Needed (Small Special Order of RMC / Components)",
@@ -2441,15 +2597,15 @@
     },
     "Adagio_Industrial_Salvage_Universal_E_Title_002": {
       "en": "Salvager Needed (Small Supply of RMC / UCM)",
-      "tr": "需要打捞人员 (少量供应 RMC / UCM)[蓝图]"
+      "tr": "需要打捞人员 (少量供应 RMC / UCM)"
     },
     "Adagio_Industrial_Salvage_Universal_E_Title_001": {
       "en": "Salvager Needed (Small Supply of RMC)",
-      "tr": "需要打捞人员 (少量供应 RMC)[蓝图]"
+      "tr": "需要打捞人员 (少量供应 RMC)"
     },
     "eckhart_defendship_VLRT_title_001": {
       "en": "Save Ship",
-      "tr": "拯救飞船\\n[埃克哈特 - 保卫飞船 VLRT][蓝图]"
+      "tr": "拯救飞船\\n[埃克哈特 - 保卫飞船 VLRT]"
     },
     "Headhunters_SecurityPatrol_E_Title_001": {
       "en": "Scout and Scan",
@@ -2457,7 +2613,7 @@
     },
     "HeadHunters_DefendEntitesAndEscort_M_Title": {
       "en": "Secure [LOCATION] from Upstarts",
-      "tr": "从愣头青手里保护 [LOCATION]\\n[猎头帮 - 保护实体并护航 MRT][蓝图]"
+      "tr": "从愣头青手里保护 [LOCATION]\\n[猎头帮 - 保护实体并护航 MRT]"
     },
     "Headhunters_DefendDestructibleEntites_M_Title_001": {
       "en": "Secure Fuel Tanks From Rivals",
@@ -2491,13 +2647,21 @@
       "en": "Seeking Experienced Combat Pilots",
       "tr": "招募经验丰富的战斗飞行员\\n[繁荣公民 - 保卫飞船 入门]"
     },
+    "eckhart_defendship_multi_HRT_SB_title_001": {
+      "en": "Serious Shattered Blade Attack",
+      "tr": "碎刃帮的大量袭击\\n[埃克哈特 - 保卫飞船 碎刃帮 HRT]"
+    },
     "HeadHunters_ShipAmbush_Intro_title_001": {
       "en": "Setting a Trap",
       "tr": "设个陷阱\\n[猎头帮 - 伏击 入门]"
     },
     "Eckhart_ShipAmbush_VE_title": {
       "en": "Settle a Score",
-      "tr": "报仇雪恨\\n[埃克哈特 - 伏击 VLRT][蓝图]"
+      "tr": "报仇雪恨\\n[埃克哈特 - 伏击 VLRT]"
+    },
+    "eckhart_defendship_multi_SRT_SB_title_001": {
+      "en": "Shattered Blade Strike",
+      "tr": "碎刃帮袭击\\n[埃克哈特 - 保卫飞船 碎刃帮 ERT]"
     },
     "TheCollector_Recipes_Title_HeavyUtil": {
       "en": "Shiny Builder Suit",
@@ -2505,11 +2669,11 @@
     },
     "cfp_defendship_MRT_title_001": {
       "en": "Ship Needs Emergency Assistance",
-      "tr": "飞船需要紧急协助\\n[繁荣公民 - 保卫飞船 MRT][蓝图]"
+      "tr": "飞船需要紧急协助\\n[繁荣公民 - 保卫飞船 MRT]"
     },
     "headhunters_EliminateSpecific_CFP_E_title_001": {
       "en": "Shot in the chaos",
-      "tr": "混乱中的一击[蓝图]"
+      "tr": "混乱中的一击"
     },
     "Headhunters_EliminateAll_PAF_H_title_001": {
       "en": "Show Them Who's Boss",
@@ -2537,7 +2701,7 @@
     },
     "headhunters_killship_gen_lrt_title_001": {
       "en": "Simple Hit",
-      "tr": "简单攻击[蓝图]"
+      "tr": "简单攻击"
     },
     "Covalex_RecoverCargo_Easy_Title": {
       "en": "Small Covalex Shipment Needs Recovering",
@@ -2549,31 +2713,31 @@
     },
     "Shubin_Industrial_HandMining_Intro_Local_Title_001": {
       "en": "Small Purchase Order: Hand Mined Materials",
-      "tr": "小批量采购订单：手工开采矿石[蓝图]"
+      "tr": "小批量采购订单：手工开采矿石"
     },
     "Shubin_Industrial_HandMining_Pyro_E_Local_Title_001": {
       "en": "Small Purchase Order: Hand Mined Materials",
-      "tr": "小批量采购订单：手工开采矿石[蓝图]"
+      "tr": "小批量采购订单：手工开采矿石"
     },
     "Shubin_Industrial_HandMining_Stanton_E_Local_Title_001": {
       "en": "Small Purchase Order: Hand Mined Materials",
-      "tr": "小批量采购订单：手工开采矿石[蓝图]"
+      "tr": "小批量采购订单：手工开采矿石"
     },
     "Shubin_Industrial_HandMining_Stanton_E_PlanetarySystem_Title_001": {
       "en": "Small Purchase Order: Hand Mined Materials",
-      "tr": "小批量采购订单：手工开采矿石[蓝图]"
+      "tr": "小批量采购订单：手工开采矿石"
     },
     "Shubin_Industrial_ShipMining_Nyx_E_Local_Title_001": {
       "en": "Small Purchase Order: Ship Mined Ore",
-      "tr": "小批量采购订单：飞船开采矿石[蓝图]"
+      "tr": "小批量采购订单：飞船开采矿石"
     },
     "Shubin_Industrial_ShipMining_Pyro_E_Local_Title_001": {
       "en": "Small Purchase Order: Ship Mined Ore",
-      "tr": "小批量采购订单：飞船开采矿石[蓝图]"
+      "tr": "小批量采购订单：飞船开采矿石"
     },
     "Shubin_Industrial_ShipMining_Stanton_E_Local_Title_001": {
       "en": "Small Purchase Order: Ship Mined Ore",
-      "tr": "小批量采购订单：飞船开采矿石[蓝图]"
+      "tr": "小批量采购订单：飞船开采矿石"
     },
     "Shubin_Industrial_GroundVehicle_Pyro_E_DiscoverPlanetary_Title_001": {
       "en": "Small Purchase Order: Vehicle Mined Ore",
@@ -2613,15 +2777,19 @@
     },
     "Shubin_Industrial_ShipMining_VH_Org_Title_001": {
       "en": "Special Purchase Order: Mined Materials",
-      "tr": "特殊采购订单：开采的材料[蓝图]"
+      "tr": "特殊采购订单：开采的材料"
     },
     "CFP_RecoverCargo_Super_Title": {
       "en": "Special Recovery Operation",
-      "tr": "特别回收行动\\n[繁荣公民 - 取回货物 ERT][蓝图]"
+      "tr": "特别回收行动\\n[繁荣公民 - 取回货物 ERT]"
     },
     "TheCollector_Ships_Spirit_C1_TItle": {
       "en": "Spirit Cargo mod",
       "tr": "星灵货运改款\\n[兑换 - C1 星灵 维科洛版]"
+    },
+    "vaughn_assassination_PA_E_title": {
+      "en": "Splintering the Alliance",
+      "tr": "分裂那个联盟\\n[沃恩 - 刺杀 人民联盟 LRT]"
     },
     "Headhunters_SecurityPatrol_VH_Title_001": {
       "en": "Stand Our Ground",
@@ -2641,7 +2809,7 @@
     },
     "Foxwell_Mercenary_Rehire_title_001": {
       "en": "Still Looking for Work?",
-      "tr": "还在找工作？[蓝图]"
+      "tr": "还在找工作？"
     },
     "Headhunters_HaulCargo_AToB_PAF_title_01": {
       "en": "Stock Taking",
@@ -2653,11 +2821,15 @@
     },
     "eckhart_defendship_MRT_title_001": {
       "en": "Stop Attack on High-Profile Client",
-      "tr": "阻止对知名客户的攻击\\n[埃克哈特 - 保卫飞船 MRT][蓝图]"
+      "tr": "阻止对知名客户的攻击\\n[埃克哈特 - 保卫飞船 MRT]"
+    },
+    "cfp_defendship_MRT_SB_title_001": {
+      "en": "Stop Attack on Ship",
+      "tr": "阻止对飞船的攻击\\n[繁荣公民 - 保卫飞船 碎刃帮 MRT]"
     },
     "eckhart_defendship_multi_VHRT_title_001": {
       "en": "Stop Deadly Ship Attack",
-      "tr": "阻止致命的飞船攻击\\n[埃克哈特 - 保卫飞船 VHRT][蓝图]"
+      "tr": "阻止致命的飞船攻击\\n[埃克哈特 - 保卫飞船 VHRT]"
     },
     "Headhunters_DefendDestructibleEntites_H_Title_001": {
       "en": "Stop Gang From Destroying Fuel Tanks",
@@ -2665,11 +2837,19 @@
     },
     "HeadHunters_DefendEntitesAndEscort_H_Title": {
       "en": "Stop Rival Attack at [LOCATION]",
-      "tr": "在 [LOCATION] 阻止对手攻击\\n[猎头帮 - 保护实体并护航 HRT][蓝图]"
+      "tr": "在 [LOCATION] 阻止对手攻击\\n[猎头帮 - 保护实体并护航 HRT]"
     },
     "headhunters_bombingrun_sabotage_servers_VH_title_001": {
       "en": "Stop Rivals from Launching Heist",
       "tr": "阻止竞争对手发起抢劫\\n[猎头帮 - 轰炸/破坏服务器 VHRT]"
+    },
+    "cfp_defendship_multi_SRT_SB_title_001": {
+      "en": "Stop Savage Shattered Blade Attack",
+      "tr": "停止碎刃帮野蛮人的攻击\\n[繁荣公民 - 保卫飞船 碎刃帮 ERT]"
+    },
+    "eckhart_defendship_VLRT_SB_title_001": {
+      "en": "Stop Shattered Blade Attack",
+      "tr": "阻止碎刃帮的攻击\\n[埃克哈特 - 保卫飞船 碎刃帮 VLRT]"
     },
     "headhunters_bombingrun_M_title_001": {
       "en": "Stopping the Competition",
@@ -2677,15 +2857,15 @@
     },
     "Intersec_TSG_BombRun_Solo_Title_001": {
       "en": "Strategic Bombing",
-      "tr": "战略轰炸\\n[互安防务 - 战术打击群][蓝图]"
+      "tr": "战略轰炸\\n[互安防务 - 战术打击群]"
     },
     "LingFamily_RecoverCargo_Super_Title": {
       "en": "Stuck Ling Shipment Pending Delivery",
-      "tr": "受困的邻家快递货运待交付\\n[玲家快递 - 取回货物 超级困难 无战斗]"
+      "tr": "受困的玲家快递货运待交付\\n[玲家快递 - 取回货物 超级困难 无战斗]"
     },
     "TheCollector_Recipes_Title_VGLflightsuit": {
       "en": "Suit Up Take Off",
-      "tr": "穿搭好再起飞\\n[兑换 - 等待数据]"
+      "tr": "穿搭好再起飞\\n[兑换 - 顺风 飞行服 统御迷彩]"
     },
     "Shubin_Rockcracker_CollectLenses_Title_001": {
       "en": "Supply Order: Sadaryx Focus Lenses",
@@ -2693,7 +2873,11 @@
     },
     "eckhart_defendship_LRT_title_001": {
       "en": "Support Client Under Attack",
-      "tr": "支援遭受袭击的客户\\n[埃克哈特 - 保卫飞船 LRT][蓝图]"
+      "tr": "支援遭受袭击的客户\\n[埃克哈特 - 保卫飞船 LRT]"
+    },
+    "cfp_defendship_VLRT_SB_title_001": {
+      "en": "Support Ship Under Attack",
+      "tr": "支援遭受攻击的飞船\\n[繁荣公民 - 保卫飞船 碎刃帮 VLRT]"
     },
     "HeadHunters_ShipAmbush_VE_title_001": {
       "en": "Surprise Party",
@@ -2705,11 +2889,11 @@
     },
     "Foxwell_EliminateAll_title_001": {
       "en": "Sweep and Clear Location",
-      "tr": "清扫地点[蓝图]"
+      "tr": "清扫地点"
     },
     "headhunters_ChainElimAll_2C_ElimSpec_AttackCFP_H_title_001": {
       "en": "Sweep and clear some CFP haunts",
-      "tr": "清理一些繁荣公民的聚集地[蓝图]"
+      "tr": "清理一些繁荣公民的聚集地"
     },
     "HeadHunters_ShipAmbush_VH_title_001": {
       "en": "Tactical Strike",
@@ -2725,11 +2909,11 @@
     },
     "cfp_sabotage_generators_M_title_001": {
       "en": "Take Outlaws at [LOCATION] Offline",
-      "tr": "让 [LOCATION] 的不法分子下线[蓝图]"
+      "tr": "让 [LOCATION] 的不法分子下线"
     },
     "cfp_ChainElimAll_1C_ElimSpec_HHAttack_M_title_001": {
       "en": "Taking back from the Headhunters",
-      "tr": "从猎头帮手里收回[蓝图]"
+      "tr": "从猎头帮手里收回"
     },
     "DeadSaints_RecoverCargo_Hard_Title": {
       "en": "Taking Back Our Goods",
@@ -2737,11 +2921,11 @@
     },
     "headhunters_ChainElimAll_3C_ElimSpec_AttackXT_VH_title_001": {
       "en": "Taking down a XenoThreat Hideout",
-      "tr": "摧毁一个异种威胁藏身处[蓝图]"
+      "tr": "摧毁一个异种威胁藏身处"
     },
     "headhunters_ChainElimAll_1C_AttackXT_M_title_001": {
       "en": "Taking out some XenoThreat trash",
-      "tr": "处理掉一些异种威胁的垃圾[蓝图]"
+      "tr": "处理掉一些异种威胁的垃圾"
     },
     "HeadHunters_RecoverCargo_Easy_Title": {
       "en": "Taking what’s ours",
@@ -2749,15 +2933,15 @@
     },
     "headhunters_ChainElimAll_2C_ElimSpec_AttackXT_H_title_001": {
       "en": "Taking XenoThreat Turf",
-      "tr": "夺取异种威胁的地盘[蓝图]"
+      "tr": "夺取异种威胁的地盘"
     },
     "headhunters_killship_asteroid_rank1_title_001": {
       "en": "Target at [LOCATION]",
-      "tr": "目标位于 [LOCATION][蓝图]"
+      "tr": "目标位于 [LOCATION]"
     },
     "headhunters_killship_asteroid_rank0_title_001": {
       "en": "Target takedown for a fast track in",
-      "tr": "干掉目标以快速加入[蓝图]"
+      "tr": "干掉目标以快速加入"
     },
     "Foxwell_X2_AttackIdris_Title": {
       "en": "Target: XenoThreat Attack Group",
@@ -2773,7 +2957,7 @@
     },
     "Intersec_KillShip_Title_Easy_001": {
       "en": "Terrorist [TARGET] to be Neutralized",
-      "tr": "恐怖分子 [TARGET] 该被消灭\\n[互安防务 - 击杀飞船 LRT][蓝图]"
+      "tr": "恐怖分子 [TARGET] 该被消灭\\n[互安防务 - 击杀飞船 LRT]"
     },
     "TheCollector_Recipes_Title_Battle": {
       "en": "Test Armor",
@@ -2781,23 +2965,23 @@
     },
     "vaughn_assassination_FPS_UGF_legal_title_001": {
       "en": "They Will Be Missed",
-      "tr": "溘然长逝[蓝图]"
+      "tr": "溘然长逝"
     },
     "headhunters_ChainElimAll_AttackCFP_E_title_001": {
       "en": "Time to roll on CFP",
-      "tr": "该让繁荣公民滚蛋了[蓝图]"
+      "tr": "该让繁荣公民滚蛋了"
     },
     "Eckhart_ShipAmbush_E_title": {
       "en": "Time to Teach a Lesson",
-      "tr": "是时候上一课了\\n[埃克哈特 - 伏击 LRT][蓝图]"
+      "tr": "是时候上一课了\\n[埃克哈特 - 伏击 LRT]"
     },
     "Eckhart_EscortShips_S_title": {
       "en": "Top Tier Operator Needed",
-      "tr": "需要顶尖行家\\n[埃克哈特 - 飞船护航 ERT][蓝图]"
+      "tr": "需要顶尖行家\\n[埃克哈特 - 飞船护航 ERT]"
     },
     "Foxwell_EliminateSpecific_title_001": {
       "en": "Track Down [TARGET]",
-      "tr": "追捕 [TARGET][蓝图]"
+      "tr": "追捕 [TARGET]"
     },
     "BHG_Certification_Easy_Title": {
       "en": "Tracker Beginner's Permit Certification",
@@ -2829,15 +3013,15 @@
     },
     "headhunters_killship_gen_mrt_title_001": {
       "en": "Treat yourself to a fight",
-      "tr": "奖励自己一场战斗[蓝图]"
+      "tr": "奖励自己一场战斗"
     },
     "Eckhart_ShipAmbush_H_title": {
       "en": "Tricky Ambush",
-      "tr": "棘手的伏击\\n[埃克哈特 - 伏击 HRT][蓝图]"
+      "tr": "棘手的伏击\\n[埃克哈特 - 伏击 HRT]"
     },
     "headhunters_eliminateall_XT_derelicts_title_01": {
       "en": "Turf War",
-      "tr": "地盘之争[蓝图]"
+      "tr": "地盘之争"
     },
     "TheCollector_Conversion_Favors_Title": {
       "en": "Turn Things to Favor",
@@ -2885,23 +3069,23 @@
     },
     "bhg_bounty_title_ShatteredBlade_001": {
       "en": "Verified Bounty: [TARGET]",
-      "tr": "已验证赏金：[TARGET]\\n[碎刃帮赏金 HRT][蓝图]"
+      "tr": "已验证赏金：[TARGET]\\n[碎刃帮赏金 HRT]"
     },
     "bhg_bounty_title_ASD_Engineering_001": {
       "en": "Verified Bounty: [TARGET] at [LOCATION]",
-      "tr": "已验证赏金：位于 [LOCATION] 的 [TARGET]\\n[玛瑙设施赏金 - 工程翼楼][蓝图]"
+      "tr": "已验证赏金：位于 [LOCATION] 的 [TARGET]\\n[玛瑙设施赏金 - 工程翼楼]"
     },
     "bhg_bounty_title_ASD_Research_001": {
       "en": "Verified Bounty: [TARGET] at [LOCATION]",
-      "tr": "已验证赏金：位于 [LOCATION] 的 [TARGET]\\n[玛瑙设施赏金 - 研究翼楼][蓝图]"
+      "tr": "已验证赏金：位于 [LOCATION] 的 [TARGET]\\n[玛瑙设施赏金 - 研究翼楼]"
     },
     "bhg_bounty_title_Rockcracker_001": {
       "en": "Verified Bounty: [TARGET] at QV Breaker Station",
-      "tr": "已验证赏金：位于 QV 碎岩站的 [TARGET][蓝图]"
+      "tr": "已验证赏金：位于 QV 碎岩站的 [TARGET]"
     },
     "bhg_bounty_title_gen_001": {
       "en": "Verified Bounty: [TARGET] | Very Low-Risk Target (Single Seater Craft, Minimal Support)",
-      "tr": "已验证赏金：[TARGET]\\n[DANGER][蓝图]"
+      "tr": "已验证赏金：[TARGET]\\n[DANGER]"
     },
     "bhg_bounty_title_HeadHunters_001": {
       "en": "Verified Bounty: [TARGET] | HeadHunters | Very High-Risk Target (Large Multicrew Craft, Heavy Support)",
@@ -2925,15 +3109,15 @@
     },
     "Eckhart_EscortShips_H_title": {
       "en": "VIP Client Needs Protection",
-      "tr": "VIP 客户需要保护\\n[埃克哈特 - 飞船护航 HRT][蓝图]"
+      "tr": "VIP 客户需要保护\\n[埃克哈特 - 飞船护航 HRT]"
     },
     "RAIN_collectresources_multiple_OLP_name_01": {
       "en": "Vital Resources Needed For Research",
-      "tr": "研究需要关键资源[蓝图]"
+      "tr": "研究需要关键资源"
     },
     "headhunters_killship_gen_vlrt_rank0_title_001": {
       "en": "Wanna be a Headhunter?",
-      "tr": "想成为猎头帮成员吗？[蓝图]"
+      "tr": "想成为猎头帮成员吗？"
     },
     "TheCollector_Conversion_SpecialFavors_Title": {
       "en": "Want Polaris? Need something special.",
@@ -2945,11 +3129,11 @@
     },
     "headhunters_killship_gen_hrt_title_001": {
       "en": "Wanted: [TARGET]",
-      "tr": "通缉：[TARGET][蓝图]"
+      "tr": "通缉：[TARGET]"
     },
     "headhunters_EliminateSpecific_XenoThreat_VH_title_001": {
       "en": "Wanted: [TARGET]",
-      "tr": "通缉：[TARGET][蓝图]"
+      "tr": "通缉：[TARGET]"
     },
     "headhunters_bombingrun_H_title_001": {
       "en": "Wasting Their Stockpile",
@@ -2993,43 +3177,43 @@
     },
     "headhunters_EliminateSpecific_XenoThreat_H_title_001": {
       "en": "XenoThreat Lieutenant needs some killing",
-      "tr": "异种威胁中尉需要被干掉[蓝图]"
+      "tr": "异种威胁中尉需要被干掉"
     },
     "Shubin_Industrial_HandMining_Pyro_Nyx_VH_Interstellar_Title_001": {
       "en": "XL Purchase Order: Hand Mined Materials",
-      "tr": "超大批量采购订单：手工开采矿石[蓝图]"
+      "tr": "超大批量采购订单：手工开采矿石"
     },
     "Shubin_Industrial_HandMining_Pyro_VH_Interstellar_Title_001": {
       "en": "XL Purchase Order: Hand Mined Materials",
-      "tr": "超大批量采购订单：手工开采矿石[蓝图]"
+      "tr": "超大批量采购订单：手工开采矿石"
     },
     "Shubin_Industrial_HandMining_Stanton_VH_Solar_Title_001": {
       "en": "XL Purchase Order: Hand Mined Materials",
-      "tr": "超大批量采购订单：手工开采矿石[蓝图]"
+      "tr": "超大批量采购订单：手工开采矿石"
     },
     "Shubin_Industrial_ShipMining_Nyx_VH_Secondary_Title_001": {
       "en": "XL Purchase Order: Ship Mined Ore",
-      "tr": "超大批量采购订单：飞船开采矿石[蓝图]"
+      "tr": "超大批量采购订单：飞船开采矿石"
     },
     "Shubin_Industrial_ShipMining_Nyx_VH_Interstellar_Title_001": {
       "en": "XL Purchase Order: Ship Mined Ore",
-      "tr": "超大批量采购订单：飞船开采矿石[蓝图]"
+      "tr": "超大批量采购订单：飞船开采矿石"
     },
     "Shubin_Industrial_ShipMining_Stanton_VH_Secondary_Interstellar_Title_001": {
       "en": "XL Purchase Order: Ship Mined Ore",
-      "tr": "超大批量采购订单：飞船开采矿石[蓝图]"
+      "tr": "超大批量采购订单：飞船开采矿石"
     },
     "Shubin_Industrial_ShipMining_Pyro_VH_Secondary_Title_001": {
       "en": "XL Purchase Order: Ship Mined Ore",
-      "tr": "超大批量采购订单：飞船开采矿石[蓝图]"
+      "tr": "超大批量采购订单：飞船开采矿石"
     },
     "Shubin_Industrial_ShipMining_Stanton_VH_Secondary_Title_001": {
       "en": "XL Purchase Order: Ship Mined Ore",
-      "tr": "超大批量采购订单：飞船开采矿石[蓝图]"
+      "tr": "超大批量采购订单：飞船开采矿石"
     },
     "Shubin_Industrial_ShipMining_Stanton_VH_Interstellar_Title_001": {
       "en": "XL Purchase Order: Ship Mined Ore",
-      "tr": "超大批量采购订单：飞船开采矿石[蓝图]"
+      "tr": "超大批量采购订单：飞船开采矿石"
     },
     "Shubin_Industrial_GroundVehicle_Nyx_VH_Interstellar_Title_001": {
       "en": "XL Purchase Order: Vehicle Mined Ore",
@@ -3045,79 +3229,79 @@
     },
     "Shubin_Industrial_ShipMining_Nyx_VE_Local_Title_001": {
       "en": "XS Purchase Order: Ship Mined Ore",
-      "tr": "超小批量采购订单：飞船开采矿石[蓝图]"
+      "tr": "超小批量采购订单：飞船开采矿石"
     },
     "Shubin_Industrial_ShipMining_Stanton_VE_Local_Title_001": {
       "en": "XS Purchase Order: Ship Mined Ore",
-      "tr": "超小批量采购订单：飞船开采矿石[蓝图]"
+      "tr": "超小批量采购订单：飞船开采矿石"
     },
     "Foxwell_ShipAmbush_VE_title_001": {
       "en": "Yellow Level Contract: Ambush An Amateur",
-      "tr": "黄色级别合约：伏击一个外行[蓝图]"
+      "tr": "黄色级别合约：伏击一个外行"
     },
     "Foxwell_EliminateAll_PAF_M_title_001": {
       "en": "Yellow Level Contract: Clear Out PAF",
-      "tr": "黄色级别合约：清理平台校准设施[蓝图]"
+      "tr": "黄色级别合约：清理平台校准设施"
     },
     "Foxwell_ShipWaveAttack_ClearHostiles_Title_VE_001": {
       "en": "Yellow Level Contract: Clear Shipjacking Group",
-      "tr": "黄色级别合约：清除劫船团体\\n[福克斯韦尔 - 击杀飞船 VLRT 多波次][蓝图]"
+      "tr": "黄色级别合约：清除劫船团体\\n[福克斯韦尔 - 击杀飞船 VLRT 多波次]"
     },
     "Foxwell_DefendLocation_E_Title_001": {
       "en": "Yellow Level Contract: Defend [LOCATION]",
-      "tr": "黄色级别合约：保卫 [LOCATION][蓝图]"
+      "tr": "黄色级别合约：保卫 [LOCATION]"
     },
     "Foxwell_bombingrun_E_title_001": {
       "en": "Yellow Level Contract: Disrupt Operations",
-      "tr": "黄色级别合约：扰乱行动\\n[福克斯韦尔 - 轰炸 LRT][蓝图]"
+      "tr": "黄色级别合约：扰乱行动\\n[福克斯韦尔 - 轰炸 LRT]"
     },
     "Foxwell_bombingrun_VE_title_001": {
       "en": "Yellow Level Contract: Limiting Potential Threat",
-      "tr": "黄色级别合约：遏制潜在威胁\\n[福克斯韦尔 - 轰炸 VLRT][蓝图]"
+      "tr": "黄色级别合约：遏制潜在威胁\\n[福克斯韦尔 - 轰炸 VLRT]"
     },
     "Foxwell_EliminateAll_OLP_M_title_001": {
       "en": "Yellow Level Contract: Merc Work",
-      "tr": "黄色级别合约：雇佣兵工作[蓝图]"
+      "tr": "黄色级别合约：雇佣兵工作"
     },
     "Foxwell_ShipWaveAttack_ClearHostiles_Title_E_001": {
       "en": "Yellow Level Contract: Neutralize Shipjacking Gang",
-      "tr": "黄色级别合约：干掉劫船帮派\\n[福克斯韦尔 - 击杀飞船 LRT 多波次][蓝图]"
+      "tr": "黄色级别合约：干掉劫船帮派\\n[福克斯韦尔 - 击杀飞船 LRT 多波次]"
     },
     "Foxwell_SecurityPatrol_VE_Title_001": {
       "en": "Yellow Level Contract: Routine Patrol",
-      "tr": "黄色级别合约：例行巡逻[蓝图]"
+      "tr": "黄色级别合约：例行巡逻"
     },
     "Foxwell_SecurityPatrol_E_Title_001": {
       "en": "Yellow Level Contract: Security Sweep",
-      "tr": "黄色级别合约：安全扫查[蓝图]"
+      "tr": "黄色级别合约：安全扫查"
     },
     "foxwell_DefendShip_E_title_001": {
       "en": "Yellow Level Contract: Ship Under Attack",
-      "tr": "黄色级别合约：飞船遭到攻击[蓝图]"
+      "tr": "黄色级别合约：飞船遭到攻击"
     },
     "Foxwell_DefendLocation_VE_Title_001": {
       "en": "Yellow Level Contract: Stand Up to Aggressors",
-      "tr": "黄色级别合约：抵抗侵略者[蓝图]"
+      "tr": "黄色级别合约：抵抗侵略者"
     },
     "Foxwell_ShipAmbush_E_title_001": {
       "en": "Yellow Level Contract: Surprise Strike",
-      "tr": "黄色级别合约：突袭打击[蓝图]"
+      "tr": "黄色级别合约：突袭打击"
     },
     "Foxwell_DefendDestructibleEntites_VE_Title_001": {
       "en": "Yellow Lvl. Contract: Defend Fuel Tanks",
-      "tr": "黄色级别合约：保卫 [OBJECTS]\\n[福克斯韦尔 - 保护可摧毁实体 VLRT][蓝图]"
+      "tr": "黄色级别合约：保卫 [OBJECTS]\\n[福克斯韦尔 - 保护可摧毁实体 VLRT]"
     },
     "Foxwell_DefendEntitesAndEscort_VE_Title": {
       "en": "Yellow Lvl. Contract: Defend Fuel Tanks and Escort Employees",
-      "tr": "黄色级别合约：保卫 [OBJECTS] 并护送员工\\n[福克斯韦尔 - 保护实体并护航 VLRT][蓝图]"
+      "tr": "黄色级别合约：保卫 [OBJECTS] 并护送员工\\n[福克斯韦尔 - 保护实体并护航 VLRT]"
     },
     "Foxwell_DefendDestructibleEntites_E_Title_001": {
       "en": "Yellow Lvl. Contract: Protect Fuel Tanks",
-      "tr": "黄色级别合约：保护 [OBJECTS]\\n[福克斯韦尔 - 保护可摧毁实体 LRT][蓝图]"
+      "tr": "黄色级别合约：保护 [OBJECTS]\\n[福克斯韦尔 - 保护可摧毁实体 LRT]"
     },
     "Foxwell_DefendEntitesAndEscort_E_Title": {
       "en": "Yellow Lvl. Contract: Protect Fuel Tanks and Escort Employees",
-      "tr": "黄色级别合约：保护 [OBJECTS] 并护送员工\\n[福克斯韦尔 - 保护实体并护航 LRT][蓝图]"
+      "tr": "黄色级别合约：保护 [OBJECTS] 并护送员工\\n[福克斯韦尔 - 保护实体并护航 LRT]"
     },
     "TheCollector_Recipes_Title_SlimyLMG": {
       "en": "Yormandi Gun",
@@ -3125,7 +3309,7 @@
     },
     "TheCollector_Recipes_Title_NoneAR": {
       "en": "Your Best Shot",
-      "tr": "你的最好的枪\\n[兑换 - 等待数据]"
+      "tr": "你的最好的枪\\n[兑换 - 绝杀 “统御迷彩” 步枪]"
     },
     "TheCollector_Ships_ZeusCL_TItle": {
       "en": "Zeus Cargo Special",
@@ -3463,6 +3647,10 @@
       "en": "Been handed some strong intel on a XenoThreat strike wing's flightpath. Looking for contractors who can dust off now and be set up at <EM4>[LOCATION]</EM4> ahead of them. Local conditions will mask your scanner signatures so you can give them the surprise of their lives. Let's turn the hunters into the hunted.\\n\\nInterested?\\n\\nKevin Walton\\nDispatcher, Foxwell Enforcement\\n'Security, Your Way'\\n\\nFoxwell Enforcement is a bonded security specialist licensed to operate throughout the UEE. We are always looking for new operators to join our family. If you or anyone you know is interested, please reach out to one of our contract representatives.",
       "tr": "已收到关于异种威胁打击编队飞行路线的可靠情报。现招募承包商，即刻出发并在 <EM4>[LOCATION]</EM4> 提前部署待命。当地环境将遮蔽你的扫描信号，让你给对方一个大大的惊喜。让我们把猎人变成猎物。\\n\\n有兴趣吗？\\n\\n凯文·沃尔顿\\n调度员，福克斯韦尔安保\\n“安全，尽在掌握”\\n\\n福克斯韦尔安保是一家获得 UEE 全境执业许可的担保安全专家公司。我们始终欢迎新的干员加入我们的大家庭。如果您或您认识的任何人对此感兴趣，请与我们的合约代表联系。"
     },
+    "vaughn_assassination_PA_S_desc": {
+      "en": "I am thrilled to inform you that we have a particularly ambitious assignment for you.\\n\\n<EM4>[TARGET]</EM4> has been marked for termination. You may know them already: a particularly high-profile member of the People’s Alliance who is notorious for having thwarted numerous attempts against their life. We initially considered it too troublesome until our client offered an even more outrageous amount of credits to see this to completion.\\n\\nThe target’s last known location was at <EM4>[LOCATION]</EM4>. Expect a top-of-the-line ship and a skilled escort.\\n\\nWe look forward to hearing about their untimely demise.\\n\\nSincerely,\\nVaughn",
+      "tr": "我很高兴地通知你，我们有一个特别有挑战性的任务交给你。<EM4>[TARGET]</EM4> 已经被标记为清除目标。你可能已经认识他们了：人民联盟一个特别高调的成员，以多次挫败谋杀他们的企图而臭名昭著。我们最初觉得这太麻烦了，直到我们客户愿意开价更高的信用点来完成这个任务。\\n\\n目标最后已知的位置在 <EM4>[LOCATION]</EM4>。预计他们会有一艘顶级飞船和一名技术娴熟的护卫陪同。\\n\\n我们期待听到他们意外死亡的消息。\\n\\n此致，\\n沃恩"
+    },
     "vaughn_assassination_VE_desc_rehire": {
       "en": "It is not often in life that we get another chance to make a first impression, but I am going to provide to you with just that.\\n\\nTo say I was disappointed in how things last transpired on your last assassination attempt would be a severe understatement. However, here is your chance to prove yourself capable of more. \\n\\nKill [TARGET] over at [LOCATION] and I will consider the slate wiped clean. \\n\\nSincerely,\\nVaughn",
       "tr": "在生活中，我们很少能再获得一次给别人留下第一印象的机会，但我会为你提供这样的机会。\\n\\n要是说我对你上次的暗杀任务的表现感到失望，实在是轻描淡写。然而，现在你有机会证明自己的能力不止于此。\\n\\n杀了 [TARGET]，地点在 <EM4>[LOCATION]</EM4> ，之后过往不究。\\n\\n此致，\\n沃恩"
@@ -3739,6 +3927,10 @@
       "en": "Long story, short - a Headhunter messed up real bad and now Citizens for Prosperity has gotten their hands on some data that could really do some damage to us. \\n\\nThe bastard is going to need some time to heal so that leaves it to you to clean up the mess. Can you go to [LOCATION] and destroy the servers they got stored there? I wanna make sure there's no chance of this info getting out there.\\n\\n-Stows out",
       "tr": "长话短说——有个猎头帮成员搞砸了，现在繁荣公民手里有一些可能对我们造成严重损害的数据。\\n\\n那个家伙需要一些时间来恢复，所以这就得由你来收拾这个烂摊子。你能去 [LOCATION] 把他们存放的服务器砸了吗？我想确保这些信息绝对不会泄露出去。\\n\\n- 斯托斯通讯完毕。"
     },
+    "eckhart_defendship_multi_VHRT_SB_desc_001": {
+      "en": "ECKHART SECURITY, LLC.\\nCONTRACTS & DISPATCH\\n\\nCONTRACT TYPE: Defend Ship\\nAPPROVAL CODE = [APPROVAL_CODE]\\n\\nFOR IMMEDIATE PROCESSING\\n\\nA longtime client needs combat support at <EM4>[LOCATION]</EM4> as fast as we can get it there. Any chance you’re interested and available? \\n\\nThis client can hold their own in a dogfight, so they must be up against seriously skilled fighters to have put out this call. Don’t make the mistake of heading there thinking that this is going to be easy. \\n\\nPayment will be issued upon successful completion of contract.\\n\\nThis contract is non-negotiable.\\n\\nThis message may contain confidential, proprietary, privileged and/or private information. The information is intended to be for the use of the individual or entity designated above.",
+      "tr": "埃克哈特安保有限公司\\n合约 & 派遣\\n\\n合约类型：保卫飞船\\n授权代码 = [APPROVAL_CODE]\\n\\n需要立即处理\\n\\n一位长期合作的客户在 <EM4>[LOCATION]</EM4> 急需战斗支援，我们需要尽快赶到。你有兴趣并且有时间吗？\\n\\n这位客户在空战中具备很强的战斗力，所以他们遇到的对手肯定是非常熟练的战斗机飞行员。不要以为这会很容易就贸然前往。\\n\\n报酬将在合约顺利完成后支付。\\n\\n该合约不可转让。\\n\\n此消息中可能包含机密、专有、特许保密的和/或私人信息，该等资料仅供上述指定的个人或实体使用。"
+    },
     "EckhartSecurity_RecoverCargo_Easy_Description": {
       "en": "ECKHART SECURITY, LLC.\\nCONTRACTS & DISPATCH\\n\\nCONTRACT TYPE: Recover Cargo\\nApproval code: = [APPROVAL_CODE]\\n\\nFOR IMMEDIATE PROCESSING\\n\\nClient's cargo was mid-transport when they ran into some ship trouble, and now a group of opportunistic outlaws are looking to cash in on this.\\n\\nIf you accept, head to <EM4>[LOCATION]</EM4> and deal with the outlaws guarding the cargo. Extract it using a <EM4>heavy-duty tractor beam</EM4>, recover the cargo, load it in to a ship that can transport <EM4>[MAX_SCU] cargo containers</EM4>, and deposit it on the freight elevator at <EM4>[DESTINATION]</EM4>.\\n\\nThis contract is non-negotiable.\\n\\nThis message may contain confidential, proprietary, privileged and/or private information. The information is intended to be for the use of the individual or entity designated above.",
       "tr": "埃克哈特安保有限公司\\n合约 & 派遣\\n\\n合约类型：取回货物\\n授权代码 = [APPROVAL_CODE]\\n\\n需要立即处理\\n\\n客户物资正在运输途中，却突遇飞船故障。眼下一群见机行事的不法分子正打算趁火打劫。\\n\\n若你接下任务，请前往 <EM4>[LOCATION]</EM4>，解决看守物资的不法分子。用 <EM4>重型牵引光束</EM4> 将物资提取出来，然后装入能承载 <EM4>[MAX_SCU] 尺寸集装箱</EM4> 的飞船，并运至 <EM4>[DESTINATION]</EM4> 的货运电梯卸货。\\n\\n该合约不可转让。\\n\\n此消息中可能包含机密、专有、特许保密的和/或私人信息，该等资料仅供上述指定的个人或实体使用。"
@@ -3802,6 +3994,10 @@
     "cfp_defendship_multi_HRT_desc_001": {
       "en": "We just received word that a convoy of Citizen for Prosperity affiliated ships have been targeted by outlaws and that our people are in dire need of assistance. \\n\\nIf you are available, we need combat ready pilots at [LOCATION] to defend our people. Note that at this dire time, we cannot afford even a single lost ship and expect with your assistance for all of our people make it out alive.\\n\\nGood luck,\\n\\nLima Endicott\\nLead Dispatcher\\nCitizens for Prosperity",
       "tr": "我们刚收到消息，隶属于繁荣公民的船队遭到了不法分子的袭击，我们的人员急需支援。\\n\\n如果你有空，我们需要战斗准备好的飞行员前往 [LOCATION] 保护我们的人员。请注意，在这个危急时刻，我们无法承受任何一艘飞船的损失，并希望在你的帮助下，所有人都能安全脱离。\\n\\n利玛·恩迪科特\\n首席调度员\\n繁荣公民"
+    },
+    "cfp_defendship_multi_VHRT_SB_desc_001": {
+      "en": "We’ve lost contact with a supply convoy and are concerned it might be under attack. Last comm we received from them reported Shattered Blade ships were incoming, but haven’t heard anything since. Are you free to hurry to <EM4>[LOCATION]</EM4> and support our forces? \\n\\nWe’ve come to learn that the Shattered Blade are very protective of their hunting grounds. Our last few encounters with them were quite intense, so I’d recommend bringing some heavy firepower.   \\n\\nLima Endicott\\nLead Dispatcher\\nCitizens for Prosperity",
+      "tr": "我们与一支物资运输队失去了联系，担心他们可能正遭到攻击。我们最后收到的消息说，碎刃帮的飞船正在逼近，但从那以后就再没消息了。你现在有空的话，能赶紧赶到 <EM4>[LOCATION]</EM4> 支援我们的部队吗？\\n\\n我们了解到，碎刃帮对他们狩猎地的保护非常严，最近几次和他们交手都挺激烈的，所以建议你带上足够的重火力。\\n\\n利玛·恩迪科特\\n首席调度员\\n繁荣公民"
     },
     "spacecollect_cargo_desc_VE_01": {
       "en": "RED WIND LINEHAUL\\n'YOUR GOODS IN GOOD HANDS'\\n----------------------------\\n\\nA contractor of ours has run into some trouble and abandoned their ship over at <EM4>[LOCATION]</EM4>. We need someone to head to their ship, pick up the package they left there, and finish the job.\\n\\nPACKAGES TO RECOVER\\n     · <EM4>1x [ITEM1]</EM4>\\n\\nDROP OFF LOCATION\\n     · Deliver to <EM4>[DESTINATION]</EM4>\\n\\nWe’re currently uncertain as to why they failed to complete the contract, so be cautious when approaching the ship.\\n\\nTAKE PRIDE IN YOUR WORK – Even as a contractor you are representing Red Wind Linehaul. Do not intentionally do anything to harm the company’s reputation.",
@@ -3890,6 +4086,10 @@
     "RedWind_RecoverItem_H_Desc_001": {
       "en": "RED WIND LINEHAUL\\n'YOUR GOODS IN GOOD HANDS'\\n----------------------------\\n\\nNeed an experienced pilot for this recovery contract. Unfortunately, the original delivery pilot was targeting by a group of outlaws. Thankfully, the client’s packages are still sitting in their damaged ship located at <EM4>[LOCATION]</EM4>.\\n\\nYou’ll potentially need to <EM4>bring some backup</EM4> with you to ensure the successful collection and delivery of the packages.\\n\\nPACKAGES TO RECOVER\\n     · <EM4>4x [ITEM1]</EM4>\\n\\nDROP OFF LOCATION\\n     · Deliver to <EM4>[DESTINATION]</EM4>\\n\\nConsidering the danger of this contract, we’re willing to offer a slight pay increase as hazard pay.\\n\\nTAKE PRIDE IN YOUR WORK – Even as a contractor you are representing Red Wind Linehaul. Do not intentionally do anything to harm the company’s reputation.",
       "tr": "红风物流\\n“您的货物，有我保障”\\n----------------------------\\n\\n需要一位有经验的飞行员来执行这次打捞任务。不幸的是，原定的送货飞行员遭到了一伙不法分子的袭击。所幸，客户的包裹仍留在那艘受损的飞船上，位置在<EM4>[LOCATION]</EM4>。\\n\\n你可能需要<EM4>带些帮手</EM4>一起去，以确保顺利取回并交付这些包裹。\\n\\n要找回的包裹\\n     · <EM4>4x [ITEM1]</EM4>\\n\\n卸货地点\\n     · 送至 <EM4>[DESTINATION]</EM4>\\n\\n鉴于这项任务的危险性，我们愿意提供额外的危险津贴以提高报酬。\\n\\n以你的工作为荣 - 即使你是外包承包商，你也代表红风货运。切勿故意做出任何损害公司声誉的行为。"
+    },
+    "vaughn_assassination_PA_H_desc": {
+      "en": "<EM4>[TARGET]</EM4> of the People’s Alliance, certainly seems to have a reputation about them, based on the importance our client has placed on this being handled in a timely and exacting manner.\\n\\nBut we’ll spare you the details. All you need to do is travel to <EM4>[LOCATION]</EM4> and put an end to their life. Expect a well-armed ship and highly competent backup to boot. They seem to take themselves quite seriously.\\n\\nSincerely,\\nVaughn",
+      "tr": "人民联盟的<EM4>[TARGET]</EM4>，看起来确实名声不小，从我们客户对这件事处理时效和精确度的高要求来看就能看出来。\\n\\n不过我就不细说了。你只需要前往 <EM4>[LOCATION]</EM4>，结束他们的生命即可。预计他们会有一艘武装齐全的飞船，还有一群训练有素的援兵。他们似乎还挺把自己当回事儿的。\\n\\n此致，\\n沃恩"
     },
     "headhunters_multikillship_base_Generic_M_desc_001": {
       "en": "A lotta wannabe gangs have stepped to the Headhunters over the years thinking that they could force their way into the system. We're still here. They aren't. But it seems the survivors of these groups have decided to band together and try again. Guess some people never learn.\\n\\nLatest group hit a couple of our convoys while on supply runs. Shouldn't be a surprise that the Judge wants to stomp them out quick. We've learned they're out near [LOCATION] and likely rearming for another attack. \\n\\nWe want you to go there and make them wish they died with their old gang.\\n\\nStows out",
@@ -4034,6 +4234,10 @@
     "cfp_sabotage_servers_H_XT_desc_001": {
       "en": "We got a bit of a problem that I'm hoping you can solve for me. One of our informers has revealed that XenoThreat has been amassing data on Citizens for Prosperity operations throughout the system. \\n\\nThis information, if used correctly, could put our people at serious risk. The best solution is for you to completely destroy the servers where the data is being stored at [LOCATION].\\n\\nWith their trove of information wiped out, it should give our people a fighting chance.\\n \\nLima Endicott\\nLead Dispatcher\\nCitizens for Prosperity",
       "tr": "我们遇到了一点问题，希望你能帮我解决。我们的一个线人透露，异种威胁正在收集关于繁荣公民在整个星系的行动数据。\\n\\n如果这些信息被他们利用，就可能会给我们的人带来严重风险。最好的解决办法是请你彻底摧毁存储这些数据的服务器，地址在 [LOCATION]。\\n\\n一旦他们的信息库被清除，我们的人就有了反击的机会。\\n\\n利玛·恩迪科特\\n首席调度员\\n繁荣公民"
+    },
+    "vaughn_assassination_PA_VH_desc": {
+      "en": "We hope you enjoy a challenge, because this one is looking to be far from a walk in the park.\\n\\nFor reasons our client was unwilling to disclose, a rather prominent member of the People’s Alliance needs disposing of. The target, <EM4>[TARGET]</EM4>, was last seen at <EM4>[LOCATION]</EM4> piloting a high-class ship accompanied by several skilled allies.\\n\\nDo make the most of this opportunity.\\n\\nSincerely,\\nVaughn",
+      "tr": "我们希望你能享受挑战，因为这次可不像轻松散步那么简单。\\n\\n由于我们客户不愿意透露原因，人民联盟一个重要人物需要被处理掉。目标 <EM4>[TARGET]</EM4> 最后出现在 <EM4>[LOCATION]</EM4>，当时正驾驶着一艘高级飞船，还带着几名技术娴熟的盟友。\\n\\n好好把握这次机会。\\n\\n此致，\\n沃恩"
     },
     "CFP_SabotageRelays_HH_001_Desc": {
       "en": "Violence is never our first choice, but sometimes it must be used as a preventative measure.\\n\\nWe’re planning a strike on a Headhunter controlled outpost and need your help.\\n\\nWe need to make sure that if something goes wrong they won’t be able to call for backup and escalate the situation. That’s where you come in. We need you to head over to <EM4>[LOCATION]</EM4> and disable the communication towers. There should be a <EM4>control panel located at the top</EM4> of each tower that you can use to deactivate them.\\n\\nIf you’re able to do this, Citizens for Prosperity will be able to gain some vital ground in Pyro.\\n\\nIt’s also worth keeping in mind for future contracts that you can choose to take out the comms towers instead of risking a fight with reinforcement dropships.\\n\\nStay alert and stay safe.\\n\\nThank you,\\n\\nLima Endicott\\nLead Dispatcher\\nCitizens for Prosperity",
@@ -4215,6 +4419,10 @@
       "en": "Hello, practicing on making ship fly better. Xi'an help human make ship. Fly good. Salvage good. But Wikelo can make better if you want. Bring things and will do. Bye.",
       "tr": "你好，在练习让飞船飞得更好。希安帮助人类造船。飞好。打捞好。但如果你愿意，维科洛可以做得更好。带着东西，我会做的。再见。"
     },
+    "vaughn_assassination_PA_M_desc": {
+      "en": "It seems the People’s Alliance have been ruffling some feathers recently. A client of ours would be most thrilled if you can prevent [TARGET] from meddling in their affairs ever again.\\n\\nYou’ll find them around <EM4>[LOCATION]</EM4>, and from what our client has told us, it’s unlikely that they’re alone. These aren’t your run-of-the-mill pilots, they might even pose a slight threat to your safety.\\n\\nDo try your best to keep it as clean as possible.\\n\\nSincerely,\\nVaughn",
+      "tr": "看来人民联盟最近惹了一些麻烦。我们有个客户特别希望你能阻止 <EM4>[TARGET]</EM4> 别再插手他们的事。\\n\\n你可以在 <EM4>[LOCATION]</EM4> 附近找到他们。据我们客户说，他们很可能不是孤身一人。这些家伙可不是普通飞行员，说不定还会对你安全构成一点威胁。\\n\\n尽量把事情办得干净点。\\n\\n此致，\\n沃恩"
+    },
     "TheCollector_Recipes_Desc_KopSkull": {
       "en": "Hello. Can make fun change to gun if you want. Use kopion skin for pattern and little skull dangle. Very effective. Shoot much better.\\n\\nAll you need is bring me parts to <EM4>[DESTINATIONS]</EM4> and will make. \\n\\nBye.",
       "tr": "你好。如果你想要的话，可以给枪做个有趣的改装。用寇骈犬皮肤的图案，再加个小骷髅吊坠。非常有效。射击效果会好很多。\\n\\n你只需要把零件带到 <EM4>[DESTINATIONS]</EM4>，我就会帮你做。\\n\\n再见。"
@@ -4318,6 +4526,10 @@
     "headhunters_defendship_MRT_desc_001": {
       "en": "One of my pilots wasn't thinking straight and got themselves mixed up in a heap of trouble over at [LOCATION]. \\n\\nThe real kicker is the fool has a full hold. Can't really afford to lose the stuff they're carrying, so I'd appreciate it if you could go bail them out for me. \\n\\n- Stows out",
       "tr": "我的一名飞行员没考虑清楚，结果在 [LOCATION] 惹上了一堆麻烦。\\n\\n更糟糕的是，这个傻瓜的货舱满满的。我们可不能损失他们运载的东西，所以如果你能帮我把他们救出来，我会非常感激。\\n\\n- 斯托斯通讯完毕。"
+    },
+    "cfp_defendship_multi_HRT_SB_desc_001": {
+      "en": "One of our convoys is in need of combat support. Sounds like they stumbled upon a Shattered Blade hideout while trying to make a delivery. Now, despite their best efforts, the convoy can’t get away. Looking for a combat pilot willing to head to <EM4>[LOCATION]</EM4> to help them fight off this attack before it’s too late. \\n  \\nLima Endicott\\nLead Dispatcher\\nCitizens for Prosperity",
+      "tr": "我们的一支舰队需要战斗支援。听起来他们在送货途中无意中闯入了一个碎刃帮的藏身处。现在，尽管他们已经拼尽全力，但运输队还是摆脱不了困境。我们正在寻找一名愿意前往 <EM4>[LOCATION]</EM4> 帮助他们抵御这次袭击的战斗飞行员，别让情况太糟糕了。\\n\\n利玛·恩迪科特\\n首席调度员\\n繁荣公民"
     },
     "CFP_ShipWaveAttack_ClearHostiles_Desc_VE_001": {
       "en": "Recently we've had incident reports of numerous Citizens for Prosperity contractors in the system having run-ins with an outlaw hunting party operating out of [LOCATION]. \\n\\nTo help re-establish safer routes through that sector, you will be dispatched to head there and engage with these outlaws. The group is known to travel in smaller packs, so its important that you and whatever backup you bring wait in the area to deal with all of them or else there's a chance the threat will remain. \\n\\nThank you for helping us,\\nLima Endicott\\nLead Dispatcher\\nCitizens for Prosperity",
@@ -5155,6 +5367,10 @@
       "en": "ECKHART SECURITY, LLC.\\nCONTRACTS & DISPATCH\\n\\nCONTRACT TYPE: Escort Ship\\nApproval code: = [APPROVAL_CODE]\\n\\nFOR IMMEDIATE PROCESSING\\n\\nI’m in need of a highly competent pilot who can gather a crew of equally capable pilots for an escort mission. The mining base at <EM4>[LOCATION]</EM4> is currently under attack from a group of outlaws and the crew there is unable to leave without assistance. Our scouts have reported that the attackers are armed with exceptional weaponry and ships.\\n\\nThis contract is non-negotiable.\\n\\nThis message may contain confidential, proprietary, privileged and/or private information. The information is intended to be for the use of the individual or entity designated above.",
       "tr": "埃克哈特安保有限公司\\n合约 & 派遣\\n\\n合约类型：护航飞船\\n授权代码 = [APPROVAL_CODE]\\n\\n需要立即处理\\n\\n我需要一名能力出众的飞行员，他能够召集一群同样出色的飞行员来执行护航任务。位于 <EM4>[LOCATION]</EM4> 的采矿基地目前正遭到一群不法分子的攻击，基地的船员在没有援助的情况下无法撤离。我们的侦察员报告称，袭击者配备了非常先进的武器和飞船。\\n\\n该合约不可转让。\\n\\n此消息中可能包含机密、专有、特许保密的和/或私人信息，该等资料仅供上述指定的个人或实体使用。"
     },
+    "cfp_defendship_LRT_SB_Desc_001": {
+      "en": "Need a pilot who can hold their own in a dogfight. A Citizens for Prosperity scout ship ran into a problem with the Shattered Blade near <EM4>[LOCATION]</EM4>. Must be an area of special interest for them. They launched an attack when our ship got close and don’t seem content simply driving them off. Looks like they’re out for blood.  \\n\\nAny chance you could lend a hand before we lose that ship?\\n\\nLima Endicott\\nLead Dispatcher\\nCitizens for Prosperity",
+      "tr": "需要一名能在空战中表现出色的飞行员。一艘繁荣公民组织的侦察船在 <EM4>[LOCATION]</EM4> 附近与碎刃帮组织发生了冲突。这个地区对他们来说似乎特别重要。当我们的飞船靠近时，他们发动了攻击，而且看起来他们并不满足于仅仅将他们赶走，似乎还想要大开杀戒。\\n\\n在我们失去那艘飞船之前，你能帮一下忙吗？\\n\\n利玛·恩迪科特\\n首席调度员\\n繁荣公民"
+    },
     "HeadHunters_DefendEntitesAndEscort_E_Desc": {
       "en": "I was having a shite day, and it just got worse. Our interests over at <EM4>[LOCATION]</EM4> comm'd to let me know that their  <EM>[OBJECTS]</EM4> are under attack by these no-name hoods looking to stake a claim.\\n\\nYou're gonna go there for me and protect the place, including any <EM4>friendly ships</EM4> unfortunate enough to be caught in the crossfire. Don't think putting these wannabees in their place will be too tricky for someone like you. \\n\\nAlso, I’ll sweeten the pot by giving the main contractor <EM4>3 Council Scrip</EM4> just to show my appreciation. \\n\\nStows out.",
       "tr": "我过得很糟，今天更是雪上加霜。我们位于 <EM4>[LOCATION]</EM4> 的利益相关方发来消息，称他们的 <EM4>[OBJECTS]</EM4> 正遭到一群无名小卒的攻击，对方企图抢占地盘。\\n\\n你得去那里替我保护好该区域，包括任何不幸卷入交火的<EM4>友方飞船</EM4>。对于像你这样的人来说，教训这些半吊子应该不算什么难事。\\n\\n此外，为了表达我的谢意，我将向主承包商额外支付 <EM4>[SCRIPAMOUNT] 个堂会凭证</EM4>。\\n\\n斯托斯通讯完毕。"
@@ -5179,13 +5395,13 @@
       "en": "Despite having given the client my word that their target has been dealt with, they are disposed to bouts of paranoia, so they require additional digital evidence of their demise.\\n\\nI’ll need you to head to <EM4>[LOCATION]</EM4> and give the corpse a thorough once over. Whilst I’m confident <EM4>[TARGET]</EM4> is taken care of, verification via your mobiGlas will hopefully bring some peace of mind to my client.\\n\\nI can’t imagine you coming across any significant trouble, but in this line of work, some trouble is always to be expected.\\n\\nSincerely,\\n\\nVaughn",
       "tr": "尽管我已经向客户承诺目标已被处理，但他们容易多疑，所以还需要额外的数字证据来证明目标已死。\\n\\n我需要你去 <EM4>[LOCATION]</EM4>，好好检查一下尸体。虽然我相信 <EM4>[TARGET]</EM4> 已经没问题了，但通过你的 mobiGlas 核实一下，应该能让我的客户安心一些。\\n\\n我想不到你会遇到什么大麻烦，但在这一行，总归是会有麻烦的。\\n\\n此致，\\n沃恩"
     },
-    "shubin_rockcracker_solo_desc_01": {
-      "en": "CONTRACT: Mining Rights Transfer\\nLOCATION: Nyx\\n\\nDETAILS:\\nShubin Interstellar prospectors have recently discovered the location of an abandoned QV Planetary Service Breaker Station near the Keeger belt. These stations were originally used by the defunct company to harvest valuable resources from inside asteroids but knowledge of their exact locations has been lost over the years. \\n\\nWhile this particular station is offline, our scout team believes that it could be made functional again with the necessary repairs. Additionally, if it was brought back online, there's already a resource-heavy asteroid in place ready to be cracked by the station's mining laser. \\n\\nUnfortunately, with all the various challenges that come with operating in Nyx, Shubin doesn't currently have the available bandwidth to handle the aforementioned repairs ourselves. This however has created an opportunity for an interested independent mining operation such as yourself. \\n\\n<EM4>TERMS*: </EM4>\\nWe are making available the <EM4>exclusive mining rights</EM4> to this QV Breaker Station. Upon purchase, we will provide the coordinates of the station to only you and your crew. Your team will then be free to head there with a <EM4>mining vessel</EM4>, restore the <EM4>station's mining laser</EM4> to an operational status, crack the asteroid, and <EM4>harvest the resources</EM4> inside. \\n\\nPlease note that while we guarantee that these coordinates will be exclusive to you, we cannot assure that other interested parties, such as outlaws, may not discover the station's location on their own. Caution is advised. \\n\\n*By accepting this contract you are assuming any and all risks associated with the work outlined herein and in no way can Shubin Interstellar be held accountable for any damages accrued during the duration of the contract.",
-      "tr": "合约：采矿权转让\\n地点：尼克斯星系\\n\\n详情：\\n舒宾星际的勘探者们最近发现了一处已被废弃的 QV 行星服务公司碎岩站的位置，该站位于基格小行星带附近。这些站点最初由这家已倒闭的公司用来从小行星内部开采珍贵资源，但其确切位置早已丢失多年。\\n\\n虽然该站点目前处于离线状态，但我们的侦察队认为，只要进行必要的维修，它就能重新投入使用。此外，一旦将其恢复运行，现场已经有一块富含资源的小行星，随时可以由站点的采矿激光进行开采。\\n\\n不幸的是，由于在尼克斯运营面临的各种挑战，舒宾手头目前没有足够的宽裕自行处理上述维修工作。但这却为像您这样对独立采矿作业感兴趣的人创造了一个机会。\\n\\n<EM4>条款*: </EM4>\\n我们提供该 QV 碎岩站的<EM4>独占采矿权</EM4>。购买后，我们将仅向您及您的船员提供该站点的坐标。随后，您的船员可驾驶<EM4>采矿飞船</EM4>前往该地点，将<EM4>该空间站的采矿激光</EM4>恢复至运行状态，开采小行星，并在内部<EM4>获取资源</EM4>。\\n\\n请注意，虽然我们保证这些坐标仅供您使用，但无法排除其他感兴趣的各方（如不法分子）自行发现该站点位置的可能性。请务必谨慎行事。\\n\\n*接受本合约即表示你原意承担与本合约所列工作相关的所有风险，舒宾星际在对任何在合约期间造成的损害概不负责。"
-    },
     "shubin_rockcracker_pvp_desc_01": {
       "en": "CONTRACT: Mining Rights Transfer\\nLOCATION: Nyx\\n\\nDETAILS: \\nShubin Interstellar prospectors have recently discovered the location of an abandoned QV Planetary Service Breaker Station near the Keeger belt. These stations were originally used by the defunct company to harvest valuable resources from inside asteroids but knowledge of their exact locations has been lost over the years. \\n\\nWhile this particular station is offline, our scout team believes that it could be made functional again with the necessary repairs. Additionally, if it was brought back online, there's already a resource-heavy asteroid in place ready to be cracked by the station's mining laser. \\n\\nUnfortunately, with all the various challenges that come with operating in Nyx, Shubin doesn't currently have the available bandwidth to handle the aforementioned repairs ourselves. This however has created an opportunity for an interested independent mining operation such as yourself. \\n\\n<EM4>TERMS*:</EM4>\\nWe are making available the <EM4>shared mining rights</EM4> to this QV Breaker Station. Upon purchase, we will provide the coordinates of the station to you and your crew. (Remember, any other interested parties who purchase the mining rights will get access to the station as well.) Your crew will then be free to head there with a <EM4>mining vessel</EM4>, restore the <EM4>station's mining laser</EM4> to an operational status, crack the asteroid, and <EM4>harvest the resources</EM4> inside. \\n\\nPlease note that since this is a shared contract we are able to offer these mining rights at a reduced prices, but the resources in the asteroid will be available on a <EM4>first come, first serve</EM4> basis with any other mining crews at the site. Also, there is also a chance that other interested parties, such as outlaws, may discover the station's location on their own. Caution is advised. \\n\\n*By accepting this contract you are assuming any and all risks associated with the work outlined herein and in no way can Shubin Interstellar be held accountable for any damages accrued during the duration of the contract.",
       "tr": "合约：采矿权转让\\n地点：尼克斯星系\\n\\n详情：\\n舒宾星际的勘探者们最近发现了一处已被废弃的 QV 行星服务公司碎岩站的位置，该站位于基格小行星带附近。这些站点最初由这家已倒闭的公司用来从小行星内部开采珍贵资源，但其确切位置早已丢失多年。\\n\\n虽然该站点目前处于离线状态，但我们的侦察队认为，只要进行必要的维修，它就能重新投入使用。此外，一旦将其恢复运行，现场已经有一块富含资源的小行星，随时可以由站点的采矿激光进行开采。\\n\\n不幸的是，由于在尼克斯运营面临的各种挑战，舒宾手头目前没有足够的宽裕自行处理上述维修工作。但这却为像您这样对独立采矿作业感兴趣的人创造了一个机会。\\n\\n<EM4>条款*:</EM4>\\n我们提供该 QV 碎岩站站的<EM4>共享采矿权</EM4>。购买后，我们将向您及您的船员提供该站点的坐标。（请注意，任何其他有兴趣购买采矿权的人也将获得该站点的访问权限。）随后，您的船员可驾驶<EM4>采矿飞船</EM4>前往该地点，将<EM4>该空间站的采矿激光</EM4>恢复至运行状态，开采小行星，并在内部<EM4>获取资源</EM4>。\\n\\n请注意，由于这是一份共享合约，所以我们能够以较低的价格提供这些采矿权，但小行星中的资源将与现场的其他采矿人员按<EM4>先到先得</EM4>的原则共享。此外，其他感兴趣的各方（如不法分子）也有可能自行发现该空间站的位置。请务必谨慎行事。\\n\\n*接受本合约即表示你原意承担与本合约所列工作相关的所有风险，舒宾星际在对任何在合约期间造成的损害概不负责。"
+    },
+    "shubin_rockcracker_solo_desc_01": {
+      "en": "CONTRACT: Mining Rights Transfer\\nLOCATION: Nyx\\n\\nDETAILS:\\nShubin Interstellar prospectors have recently discovered the location of an abandoned QV Planetary Service Breaker Station near the Keeger belt. These stations were originally used by the defunct company to harvest valuable resources from inside asteroids but knowledge of their exact locations has been lost over the years. \\n\\nWhile this particular station is offline, our scout team believes that it could be made functional again with the necessary repairs. Additionally, if it was brought back online, there's already a resource-heavy asteroid in place ready to be cracked by the station's mining laser. \\n\\nUnfortunately, with all the various challenges that come with operating in Nyx, Shubin doesn't currently have the available bandwidth to handle the aforementioned repairs ourselves. This however has created an opportunity for an interested independent mining operation such as yourself. \\n\\n<EM4>TERMS*: </EM4>\\nWe are making available the <EM4>exclusive mining rights</EM4> to this QV Breaker Station. Upon purchase, we will provide the coordinates of the station to only you and your crew. Your team will then be free to head there with a <EM4>mining vessel</EM4>, restore the <EM4>station's mining laser</EM4> to an operational status, crack the asteroid, and <EM4>harvest the resources</EM4> inside. \\n\\nPlease note that while we guarantee that these coordinates will be exclusive to you, we cannot assure that other interested parties, such as outlaws, may not discover the station's location on their own. Caution is advised. \\n\\n*By accepting this contract you are assuming any and all risks associated with the work outlined herein and in no way can Shubin Interstellar be held accountable for any damages accrued during the duration of the contract.",
+      "tr": "合约：采矿权转让\\n地点：尼克斯星系\\n\\n详情：\\n舒宾星际的勘探者们最近发现了一处已被废弃的 QV 行星服务公司碎岩站的位置，该站位于基格小行星带附近。这些站点最初由这家已倒闭的公司用来从小行星内部开采珍贵资源，但其确切位置早已丢失多年。\\n\\n虽然该站点目前处于离线状态，但我们的侦察队认为，只要进行必要的维修，它就能重新投入使用。此外，一旦将其恢复运行，现场已经有一块富含资源的小行星，随时可以由站点的采矿激光进行开采。\\n\\n不幸的是，由于在尼克斯运营面临的各种挑战，舒宾手头目前没有足够的宽裕自行处理上述维修工作。但这却为像您这样对独立采矿作业感兴趣的人创造了一个机会。\\n\\n<EM4>条款*: </EM4>\\n我们提供该 QV 碎岩站的<EM4>独占采矿权</EM4>。购买后，我们将仅向您及您的船员提供该站点的坐标。随后，您的船员可驾驶<EM4>采矿飞船</EM4>前往该地点，将<EM4>该空间站的采矿激光</EM4>恢复至运行状态，开采小行星，并在内部<EM4>获取资源</EM4>。\\n\\n请注意，虽然我们保证这些坐标仅供您使用，但无法排除其他感兴趣的各方（如不法分子）自行发现该站点位置的可能性。请务必谨慎行事。\\n\\n*接受本合约即表示你原意承担与本合约所列工作相关的所有风险，舒宾星际在对任何在合约期间造成的损害概不负责。"
     },
     "headhunters_defendship_multi_VHRT_PA_desc_001": {
       "en": "One of our Clips is in a tight spot. Just got a comm from ‘em saying their convoy is being swarmed by the People’s Alliance and they need help on the double. Well, they said it in a more colorful way than that. All I’ll say is that I don’t want to hear what they’ll say to me if they don’t survive and are forced to regen. \\n\\nSituation must be serious if this Clip is freaking out. Really need you to get to <EM4>[LOCATION]</EM4> immediately, and ensure that they make it out alive.\\n\\nStows out.",
@@ -5363,6 +5579,10 @@
       "en": "ECKHART SECURITY, LLC.\\nCONTRACTS & DISPATCH\\n\\nCONTRACT TYPE: Defend Location\\nAPPROVAL CODE = [APPROVAL_CODE]\\n\\nFOR IMMEDIATE PROCESSING\\n\\nThere’s a serious problem brewing for one of our clients at <EM4>[LOCATION]</EM4>. They’ve been warned that a highly skilled outlaw crew has their sights set on overrunning and occupying that location. We’ve been hired to make sure that doesn’t happen. \\n\\nNeed a contractor to deploy to the location immediately. Based on the intel provided by the client, this won’t be a walk in the park. We strongly advise you to bring allies and plenty of supplies to help ward of the impending attack.   \\n\\nPayment will be issued upon successful completion of contract.\\n\\nThis contract is non-negotiable.\\n\\nThis message may contain confidential, proprietary, privileged and/or private information. The information is intended to be for the use of the individual or entity designated above.",
       "tr": "埃克哈特安保有限公司\\n合约 & 派遣\\n\\n合约类型：防御地点\\n授权代码 = [APPROVAL_CODE]\\n\\n需要立即处理\\n\\n我们的一个客户在 <EM4>[LOCATION]</EM4> 面临严重问题。他们收到警告，一个技术高超的不法分子团队已经盯上了这个地点，计划占领这里。我们被雇佣来确保这一切不会发生。\\n\\n需要一名承包商立即部署到该地点。根据客户提供的情报，这将不会是一件轻松的事。我们强烈建议你带上盟友和充足的物资，以帮助抵御即将到来的攻击。\\n\\n报酬将于合约成功完成后发放。\\n\\n该合约不可转让。\\n\\n此消息中可能包含机密、专有、特许保密的和/或私人信息，该等资料仅供上述指定的个人或实体使用。"
     },
+    "eckhart_defendship_MRT_SB_desc_001": {
+      "en": "ECKHART SECURITY, LLC.\\nCONTRACTS & DISPATCH\\n\\nCONTRACT TYPE: Defend Ship\\nAPPROVAL CODE = [APPROVAL_CODE]\\n\\nFOR IMMEDIATE PROCESSING\\n\\nLooking for a contractor who’s available immediately. \\n\\nA client conducting business in Nyx ran into some trouble with the Shattered Blade and is requesting back-up at <EM4>[LOCATION]</EM4>. Are you free to handle this for us?\\n\\nPayment will be issued upon successful completion of contract.\\n\\nThis contract is non-negotiable.\\n\\nThis message may contain confidential, proprietary, privileged and/or private information. The information is intended to be for the use of the individual or entity designated above.",
+      "tr": "埃克哈特安保有限公司\\n合约 & 派遣\\n\\n合约类型：保卫飞船\\n授权代码 = [APPROVAL_CODE]\\n\\n需要立即处理\\n\\n正在寻找一名可以立即出发的承包商。\\n\\n一位在尼克斯开展业务的客户与碎刃帮发生了冲突，正在 <EM4>[LOCATION]</EM4> 请求支援。你有空处理这件事吗？\\n\\n报酬将在合约顺利完成后支付。\\n\\n该合约不可转让。\\n\\n此消息中可能包含机密、专有、特许保密的和/或私人信息，该等资料仅供上述指定的个人或实体使用。"
+    },
     "HeadHunters_ShipAmbush_H_desc_001": {
       "en": "A squad of ships recently shanked one of our convoys, and ten credits says they’re gonna try and do it again. Looking for someone to launch a reprisal attack before that can happen.  \\n\\nWe’ve ID’d the idiots as consisting of several large craft and a sizable escort. We believe the leader is flying a <EM4>[TARGET]</EM4> and set that ship as the primary target. Since it’s a sizable and aggressive squad, a surprise attack seems like a smart play. They often pass by <EM4>[LOCATION]</EM4>, which has an emission cloud to hide in. Be smart and patient then strike when the time is right. \\n\\nUnless you fancy yourself a real ace, it’s probably best to bring some friends. Maybe you can entice folks by letting them know they can pick through the wreckage for valuables once the deed is done.\\n\\nAnd on top of that, I'll give the main contractor a bonus <EM4>8 Council Scrip</EM4> to sweeten the pot.\\n\\nStows out.",
       "tr": "有一队飞船最近劫了我们的运输舰队，我赌十块钱他们还会再来。想找人在那之前给他们给他们点颜色看看。\\n\\n已经确认这帮蠢货由几艘大船和一艘护卫舰组成。领队开的是 <EM4>[TARGET]</EM4>，就把它定为首要目标。既然对方人多势众又穷凶极恶，搞突袭才是上策。他们常经过 <EM4>[LOCATION]</EM4> 那片带辐射云的星域——藏好身形，伺机而动。\\n\\n除非你自认是王牌飞行员，否则最好带几个帮手。不妨告诉来帮忙的人，干完这票可以在可以在残骸里随便捡值钱货。\\n\\n更重要的是，我还会额外奖励给主承包商 <EM4>[SCRIPAMOUNT] 个堂会凭证</EM4> 作为甜头。\\n\\n- 斯托斯"
@@ -5370,6 +5590,10 @@
     "headhunters_eliminateall_outpost_desc_01": {
       "en": "Some assholes are refusing to pay us what we’re owed. Problem is, these idiots are bragging about it. Had they kept it quiet, we could’ve taken care of this more surgically, but now we need to send a message.\\n\\nThe fools are operating from [LOCATION]. We need them all gone. Make it as loud as you can. We’ll send your payment once everyone’s taken care of.\\n\\n- Stows out.",
       "tr": "一些混蛋拒绝支付我们应得的报酬。问题是，这些蠢货还到处炫耀。要是他们保持沉默的话我们还能用更有效方法解决这个问题，但现在我们需要给他们个下马威。\\n\\n这帮蠢货在 [LOCATION]。我们需要他们全部消失，动静越大越好，等所有人都处理干净了，我们会把你的报酬发过去。\\n\\n- 斯托斯通讯完毕。"
+    },
+    "eckhart_defendship_LRT_SB_desc_001": {
+      "en": "ECKHART SECURITY, LLC.\\nCONTRACTS & DISPATCH\\n\\nCONTRACT TYPE: Defend Ship\\nAPPROVAL CODE = [APPROVAL_CODE]\\n\\nFOR IMMEDIATE PROCESSING\\n\\nThe Shattered Blade are attacking a client of ours near <EM4>[LOCATION]</EM4>. Need a contractor deployed to that area immediately before it’s too late. Any chance you're available?\\n\\nPayment will be issued upon successful completion of contract.\\n\\nThis contract is non-negotiable.\\n\\nThis message may contain confidential, proprietary, privileged and/or private information. The information is intended to be for the use of the individual or entity designated above.",
+      "tr": "埃克哈特安保有限公司\\n合约 & 派遣\\n\\n合约类型：保卫飞船\\n授权代码 = [APPROVAL_CODE]\\n\\n需要立即处理\\n\\n碎刃帮正在攻击我们在 <EM4>[LOCATION]</EM4> 附近的一位客户。需要立即派遣一名承包商到该地区，否则就将为时已晚。你有空吗？\\n\\n报酬将在合约顺利完成后支付。\\n\\n该合约不可转让。\\n\\n此消息中可能包含机密、专有、特许保密的和/或私人信息，该等资料仅供上述指定的个人或实体使用。"
     },
     "EckhartSecurity_EliminateAll_storm_shut_H_desc_001": {
       "en": "ECKHART SECURITY, LLC.\\nCONTRACTS & DISPATCH\\n\\nCONTRACT TYPE: Clear Location\\nAPPROVAL CODE = [APPROVAL_CODE]\\n\\nFOR IMMEDIATE PROCESSING\\n\\nGot an emergency request from Associated Science & Development for any available operators to report to [LOCATION] and deal with some hostiles who have overtaken one of their facilities. \\n\\nOnce on site, you will need to engage and eliminate any hostile elements. ASD has indicated that this facility provides shuttle services to one of their embedded research centers but were very clear that you are not authorized to travel there. Trespassers will be shot and you will be no exception, so stick to the prescribed AO.\\n\\nThis contract is non-negotiable.\\n\\nThis message may contain confidential, proprietary, privileged and/or private information. The information is intended to be for the use of the individual or entity designated above.",
@@ -5535,6 +5759,10 @@
       "en": "Citizens for Prosperity is in need of pilots with dogfighting experience. If you’re looking to put your skills to the test, I have a mission here for you to try. \\n\\nA civilian ship has requested combat support near <EM4>[LOCATION]</EM4>. Head there and show us that you have the skills to excel in these types of missions and we’ll put you to good use.  \\n\\nPlease be aware. This mission is not a training exercise. This is a real encounter, so please do your best to save the ship in distress. \\n\\nGood Luck,\\n\\nLima Endicott\\nLead Dispatcher\\nCitizens for Prosperity",
       "tr": "繁荣公民组织正在寻找具有空战狗斗经验的飞行员。如果你想展示自己的技能，这里有一个任务可以给你试试。\\n\\n有一艘民用飞船在<EM4>[LOCATION]</EM4>附近请求战斗支援。前往那里，证明你具备执行这类任务的能力，我们会好好利用你的才能。\\n\\n请注意，这并不是一次训练演习，而是一次真正的战斗。请尽你最大努力拯救那艘处于困境中的飞船。\\n\\n祝你好运，\\n\\n利玛·恩迪科特\\n首席调度员\\n繁荣公民"
     },
+    "eckhart_defendship_multi_HRT_SB_desc_001": {
+      "en": "ECKHART SECURITY, LLC.\\nCONTRACTS & DISPATCH\\n\\nCONTRACT TYPE: Defend Ship\\nAPPROVAL CODE = [APPROVAL_CODE]\\n\\nFOR IMMEDIATE PROCESSING\\n\\nHave an emergency here that needs our immediate attention. A client ran into a Shattered Blade crew near <EM4>[LOCATION]</EM4> and is on the verge of being overwhelmed. Looking for a skilled pilot to come to their rescue. \\n\\nPayment will be issued upon successful completion of contract.\\n\\nThis contract is non-negotiable.\\n\\nThis message may contain confidential, proprietary, privileged and/or private information. The information is intended to be for the use of the individual or entity designated above.",
+      "tr": "埃克哈特安保有限公司\\n合约 & 派遣\\n\\n合约类型：保卫飞船\\n授权代码 = [APPROVAL_CODE]\\n\\n需要立即处理\\n\\n这里有一个紧急情况，需要我们立即处理。一位客户在 <EM4>[LOCATION]</EM4> 附近遇到了碎刃帮的成员，现在处境非常危险。我们正在寻找一位技术娴熟的飞行员去救援他们。\\n\\n报酬将在合约顺利完成后支付。\\n\\n该合约不可转让。\\n\\n此消息中可能包含机密、专有、特许保密的和/或私人信息，该等资料仅供上述指定的个人或实体使用。"
+    },
     "HeadHunters_ShipAmbush_Intro_desc_001": {
       "en": "Got an opportunity for someone eager to show off their flying skills. Headhunters have been running afoul of this numbrain flying a<EM4>[TARGET]</EM4> and we’re gonna put a stop to it once and for all.\\n\\nYou’re gonna help us set a trap for them. See, there’s an <EM4>emission cloud</EM4> near <EM4>[LOCATION]</EM4> that they fly by frequently. \\n\\nHead there, hide inside the cloud by powering down your ship, and attack the asshole as soon as you see ‘em and other single-seaters dumb enough to fly with them. It’ll be all you for that first hit, but we’ll put some support ships nearby to help finish the job. \\n\\nAnd in honor of this being your first surprise attack for us, there's a bonus of <EM4>1 Council Scrip</EM4> for the main contractor at the end of the job. \\n\\nStows out.",
       "tr": "有个机会适合那些想展示自己飞行技巧的人。猎头帮最近惹上了这个驾驶 <EM4>[TARGET]</EM4> 飞船的蠢货，我们得彻底解决这个问题。\\n\\n你要帮我们设一个陷阱。你看，<EM4>[LOCATION]</EM4> 附近有一片<EM4>辐射云</EM4>，他们经常从那里飞过。\\n\\n你去那里，把飞船的引擎关掉藏在云里，一旦看到他们和其他蠢货一起飞，就立刻发动攻击。第一次攻击就靠你一个人了，但我们会派几艘支援飞船来帮忙完成剩下的工作。\\n\\n作为为我们完成的首次突袭，完成任务后，主承包商会得到<EM4>[SCRIPAMOUNT] 个堂会凭证</EM4>的额外奖励。\\n\\n斯托斯通讯完毕。"
@@ -5542,6 +5770,10 @@
     "Eckhart_ShipAmbush_VE_desc": {
       "en": "ECKHART SECURITY, LLC.\\nCONTRACTS & DISPATCH\\n\\nCONTRACT TYPE: Ship Ambush\\nAPPROVAL CODE = [APPROVAL_CODE]\\n\\nFOR IMMEDIATE PROCESSING\\n\\nOne of our clients has been the victim of consistent harassment so the time has come to send a clear cease-and-desist message by taking out their prized <EM4>[TARGET]</EM4>.  The lowlife in question follows a fairly predictable routine making them susceptible to an ambush. We’ve identified <EM4>[LOCATION]</EM4> as the ideal spot. It features an <EM4>emission cloud</EM4> where you can hide and power down your ship while waiting. \\n\\nBy the way, the <EM4>[TARGET]</EM4> often flies alone but is sometimes joined by a friend in a single-seat ship. Neither should give you too much trouble, but we have other contractors in the area who can lend a hand once you strike.\\n\\nPayment will be issued upon successful completion of contract. There’s a bonus payment of <EM4>1 MG Scrip</EM4> in this for the main contractor too.\\n\\nThis contract is non-negotiable.\\n\\nThis message may contain confidential, proprietary, privileged and/or private information. The information is intended to be for the use of the individual or entity designated above.",
       "tr": "埃克哈特安保有限公司\\n合约 & 派遣\\n\\n合约类型：飞船伏击\\n授权代码 = [APPROVAL_CODE]\\n\\n需要立即处理\\n\\n我们的一个客户一直遭受持续的骚扰，现在是时候通过采取行动来发出明确的停止骚扰信号了，目标就是他们珍贵的 <EM4>[TARGET]</EM4>。那个卑鄙的人有着相当可预测的行踪，这使得他们很容易成为伏击的目标。我们已经确定了 <EM4>[LOCATION]</EM4> 作为理想的伏击地点。那里有一片<EM4>辐射云</EM4>，你可以在那里关闭飞船隐藏等待时机。\\n\\n顺便说一下，<EM4>[TARGET]</EM4> 通常独自行动，但有时也会有一个朋友乘坐单座飞船同行。他们两个应该不会给你带来太大麻烦，不过在你发动攻击后，我们还有其他承包商可以在附近提供帮助。\\n\\n合约完成后立即付款。主承包商还能获得 <EM4>[SCRIPAMOUNT] 个雇佣兵凭证</EM4>的额外奖励。\\n\\n该合约不可转让。\\n\\n此消息中可能包含机密、专有、特许保密的和/或私人信息，该等资料仅供上述指定的个人或实体使用。"
+    },
+    "eckhart_defendship_multi_SRT_SB_desc_001": {
+      "en": "ECKHART SECURITY, LLC.\\nCONTRACTS & DISPATCH\\n\\nCONTRACT TYPE: Defend Ship\\nAPPROVAL CODE = [APPROVAL_CODE]\\n\\nFOR IMMEDIATE PROCESSING\\n\\nLooking for a contractor who can help us with an extremely dangerous situation. An elite Shattered Blade fleet has unfortunately engaged with one of our clients.  \\n\\nWe’re in need of a highly skilled contractor to scramble immediately and protect the client. If that’s you, please get your gear in order and hurry to <EM4>[LOCATION]</EM4>.   \\n\\nPayment will be issued upon successful completion of contract.\\n\\nThis contract is non-negotiable.\\n\\nThis message may contain confidential, proprietary, privileged and/or private information. The information is intended to be for the use of the individual or entity designated above.",
+      "tr": "埃克哈特安保有限公司\\n合约 & 派遣\\n\\n合约类型：保卫飞船\\n授权代码 = [APPROVAL_CODE]\\n\\n需要立即处理\\n\\n我们正在寻找一位承包商来帮助我们应对一个极其危险的情况。不幸的是，一支精英级的碎刃帮舰队已经与我们的一个客户发生了冲突。\\n\\n我们急需一位技术高超的承包商立即赶往现场进行保护。如果那就是你，请准备好你的装备，然后迅速前往 <EM4>[LOCATION]</EM4>。\\n\\n报酬将在合约顺利完成后支付。\\n\\n该合约不可转让。\\n\\n此消息中可能包含机密、专有、特许保密的和/或私人信息，该等资料仅供上述指定的个人或实体使用。"
     },
     "TheCollector_Recipes_Desc_HeavyUtil": {
       "en": "You need utility suit. Good for work. If you like, Wikelo can make shinier. Look real good. See what Wikelo need and bring.",
@@ -5667,6 +5899,10 @@
       "en": "Wikelo love useful cargo ship. Spirit is very useful. If you want one, can make for you. Just bring me things and I will do. Bye.",
       "tr": "维科洛爱有用的货船。星灵非常有用。如果你想要，我可以给你做。给我带点东西，我就去做。再见。"
     },
+    "vaughn_assassination_PA_E_desc": {
+      "en": "I can’t imagine you’ll have much trouble with this, even if it is marginally more challenging than your previous contract. Head to <EM4>[LOCATION]</EM4> and take care of People’s Alliance member by the name <EM4>[TARGET]</EM4>. My informants tell me they may have an escort or two with them. Nothing you can’t handle, of course.\\n\\nSincerely,\\nVaughn",
+      "tr": "我敢肯定你完成这个任务应该不会遇到太大困难，尽管它可能比你之前的合约稍微复杂一些。前往 <EM4>[LOCATION]</EM4>，“照顾”一下那个名叫 <EM4>[TARGET]</EM4> 的人民联盟成员。我的线人告诉我，他们可能会有一个或两个护卫。当然，这对你来说不是问题。\\n\\n此致，\\n沃恩"
+    },
     "Headhunters_SecurityPatrol_VH_Desc_001": {
       "en": "We’re getting pushback from folks who don’t seem happy that we’re here. Folks have gotten keen to our haunts and started sending out squads to hit our ships. You down to visit a few of those spots to show that we won’t be scared off? \\n\\nIf so, start by seeing what’s around the <EM4>location marker</EM4> on your HUD. From there I’ll guide you to a few other hotspots that we need checked. Better get your shit in order before heading out. I'd recommend loading up on ammo and convincing <EM4>two friends</EM4> to join the patrol.\\n\\nYou do this for the Headhunters and I'll see to it that the main contractor gets a bonus of <EM4>18 Council Scrip</EM4>. \\n\\nStows out.",
       "tr": "有些人不爽咱们在这儿混，专门派小队搞咱们的船。敢不敢去几个据点让他们明白——猎头帮可不是吓大的？\\n\\n从 HUD 上的<EM4>位置标记</EM4>开始侦查，完事带你去点其他几个火药桶。出发前最好把家伙事儿备齐。我建议你多带点弹药，再拉上<EM4>两个朋友</EM4>一起参与巡逻。\\n\\n给猎头帮办成这事儿的话，我保证让主承包商多拿 <EM4>[SCRIPAMOUNT] 个堂会凭证</EM4> 当外快。\\n\\n- 斯托斯"
@@ -5699,6 +5935,10 @@
       "en": "ECKHART SECURITY, LLC.\\nCONTRACTS & DISPATCH\\n\\nCONTRACT TYPE: Defend Ship\\nAPPROVAL CODE = [APPROVAL_CODE]\\n\\nFOR IMMEDIATE PROCESSING\\n\\nA high-profile client decided to tour Nyx system but got jumped by hostile ships around <EM4>[LOCATION]</EM4>. \\n\\nSounds like they’re overwhelmed. Any chance you could head to their location and provide support? \\n\\nPayment will be issued upon successful completion of contract.\\n\\nThis contract is non-negotiable.\\n\\nThis message may contain confidential, proprietary, privileged and/or private information. The information is intended to be for the use of the individual or entity designated above.",
       "tr": "埃克哈特安保有限公司\\n合约 & 派遣\\n\\n合约类型：保卫飞船\\n授权代码 = [APPROVAL_CODE]\\n\\n需要立即处理\\n\\n一位知名客户决定游览尼克斯星系，但在 <EM4>[LOCATION]</EM4> 附近遭到敌对飞船的袭击。\\n\\n听起来他们陷入了困境。你能不能前往他们的位置提供支援？\\n\\n报酬将在合约顺利完成后支付。\\n\\n该合约不可转让。\\n\\n此消息中可能包含机密、专有、特许保密的和/或私人信息，该等资料仅供上述指定的个人或实体使用。"
     },
+    "cfp_defendship_MRT_SB_desc_001": {
+      "en": "A Citizens for Prosperity member who’s new to Nyx took out their ship to tour the system, and ran right into trouble. Based on their comms, it sure sounds like they ventured into Shattered Blade territory, got caught, and are now trying to escape.   \\n\\nThey’re putting up a decent fight, but don’t know how long they’ll last without support. Could you go to their aid at <EM4>[LOCATION]</EM4> before it’s too late? \\n\\nLima Endicott\\nLead Dispatcher\\nCitizens for Prosperity",
+      "tr": "一位刚到尼克斯的繁荣公民组织新成员，开着自己的飞船出来游览星系，结果直接撞上了麻烦。根据他们的通讯记录来看，这肯定是在碎刃帮的地盘上惹了事，被抓住了，现在正试图逃跑。\\n\\n他们抵抗得还不错，但如果没人支援，也不知道能撑多久。你能在事情无法挽回之前赶到 <EM4>[LOCATION]</EM4> 去支援他们吗？\\n\\n利玛·恩迪科特\\n首席调度员\\n繁荣公民"
+    },
     "eckhart_defendship_multi_VHRT_desc_001": {
       "en": "ECKHART SECURITY, LLC.\\nCONTRACTS & DISPATCH\\n\\nCONTRACT TYPE: Defend Ship\\nAPPROVAL CODE = [APPROVAL_CODE]\\n\\nFOR IMMEDIATE PROCESSING\\n\\nDespite our warnings, a client decided to fly to <EM4>[LOCATION]</EM4>. Unsurprisingly, they just dropped a rescue beacon in the area, so we’re looking for a contractor to get on site, assess the situation, and hopefully rescue the client.\\n\\nWe warned them that extremely dangerous and well-equipped outlaws often strike ships there. That’s exactly what I assume happened here, so make sure you plan accordingly.  \\n\\nPayment will be issued upon successful completion of contract.\\n\\nThis contract is non-negotiable.\\n\\nThis message may contain confidential, proprietary, privileged and/or private information. The information is intended to be for the use of the individual or entity designated above.",
       "tr": "埃克哈特安保有限公司\\n合约 & 派遣\\n\\n合约类型：保卫飞船\\n授权代码 = [APPROVAL_CODE]\\n\\n需要立即处理\\n\\n尽管我们发出了警告，但一位客户还是决定飞往 <EM4>[LOCATION]</EM4>。不出所料，他们刚刚在该地区释放了一个求救信号，因此我们正在寻找一位承包商前往现场，评估情况，并希望能救出客户。\\n\\n我们之前就警告过他们，那里经常有装备精良的不法分子袭击飞船。我认为这里发生的情况正是如此，所以请务必做好相应的准备。\\n\\n报酬将在合约顺利完成后支付。\\n\\n该合约不可转让。\\n\\n此消息中可能包含机密、专有、特许保密的和/或私人信息，该等资料仅供上述指定的个人或实体使用。"
@@ -5714,6 +5954,14 @@
     "headhunters_bombingrun_sabotage_servers_VH_desc_001": {
       "en": "When will people learn that they can't just do whatever they feel like on Headhunter turf? These idiots are planning a big job and thought that I'd just let them get away with it? No way in hell.\\n\\nI want you to fly to [LOCATION] and destroy their fuel tanks and data servers. Show them what the Headhunters really think of them.\\n\\nLet's see them try to pull off anything after that.\\n\\n-Stows out",
       "tr": "人们什么时候才能明白，他们不能在猎头的地盘上随心所欲？这些白痴正在策划一项大工程，还以为我会让他们逍遥？绝对不可能。\\n\\n我想让你飞往 [LOCATION]，摧毁他们的燃料罐和数据服务器。让他们看看猎头们对他们的真实看法。\\n\\n让我们看看他们在那之后还能怎么做。\\n\\n- 斯托斯通讯完毕。"
+    },
+    "cfp_defendship_multi_SRT_SB_desc_001": {
+      "en": "One of our convoys got caught in a bad situation and is in desperate need of help. The Shattered Blade launched a brutal attack on our ships in an area that we thought was safe. That convoy is mainly carrying supplies and new recruits. From the comms I’m receiving, they’re putting up a hell of a fight but might not last much longer. \\n\\nIf available, we need you at <EM4>[LOCATION]</EM4> ready to go toe-to-toe with some serious forces.    \\n\\nLima Endicott\\nLead Dispatcher\\nCitizens for Prosperity",
+      "tr": "我们的一支舰队陷入了危急情况，急需援助。碎刃帮在我们认为安全的区域对我们船只发动了残酷的攻击。这支运输舰队主要运送的是物资和新兵。根据我收到的通讯，他们确实拼死抵抗了，但可能撑不了多久了。\\n\\n如果你有空的话，我们需要你赶到 <EM4>[LOCATION]</EM4>，准备迎战一些来势汹汹的敌人。\\n\\n利玛·恩迪科特\\n首席调度员\\n繁荣公民"
+    },
+    "eckhart_defendship_VLRT_SB_desc_001": {
+      "en": "ECKHART SECURITY, LLC.\\nCONTRACTS & DISPATCH\\n\\nCONTRACT TYPE: Defend Ship\\nAPPROVAL CODE = [APPROVAL_CODE]\\n\\nFOR IMMEDIATE PROCESSING\\n\\nWe’re getting comms from a client who accidentally disturbed a Shattered Blade deal and are now under attack. Last update I got placed their ship near <EM4>[LOCATION]</EM4>.\\n\\nLooking for a contractor who can provide dogfighting support for our client.\\n\\nPayment will be issued upon successful completion of contract.\\n\\nThis contract is non-negotiable.\\n\\nThis message may contain confidential, proprietary, privileged and/or private information. The information is intended to be for the use of the individual or entity designated above.",
+      "tr": "埃克哈特安保有限公司\\n合约 & 派遣\\n\\n合约类型：保卫飞船\\n授权代码 = [APPROVAL_CODE]\\n\\n需要立即处理\\n\\n我们收到了一位客户的通讯，他们不小心破坏了一笔与碎刃帮的交易，现在正遭到攻击。我得到的最新消息是，他们的飞船就在 <EM4>[LOCATION]</EM4> 附近。\\n\\n我们正在寻找一位能够为我们的客户提供空战支援的承包商。\\n\\n报酬将在合约顺利完成后支付。\\n\\n该合约不可转让。\\n\\n此消息中可能包含机密、专有、特许保密的和/或私人信息，该等资料仅供上述指定的个人或实体使用。"
     },
     "headhunters_bombingrun_M_desc_001": {
       "en": "Feels like everyone wants a piece of our pie these days. Scouts are reporting that <EM4>[LOCATION]</EM4> is crawling with some new gang who've got it in for us.\\n\\nSo let's show them why you don't mess with us. Take out their fuel stores and leave them stranded.\\n\\nThat oughta send a message.\\n\\n-Stows out",
@@ -5738,6 +5986,10 @@
     "eckhart_defendship_LRT_desc_001": {
       "en": "ECKHART SECURITY, LLC.\\nCONTRACTS & DISPATCH\\n\\nCONTRACT TYPE: Defend Ship\\nAPPROVAL CODE = [APPROVAL_CODE]\\n\\nFOR IMMEDIATE PROCESSING\\n\\nOne of our clients got the brilliant idea to test their dogfighting skills in a real world scenario. Doesn’t sound like it’s going well, because they comm’d us asking for some support. \\n\\nHead to <EM4>[LOCATION]</EM4> and help clean up the mess they created.\\n\\nPayment will be issued upon successful completion of contract.\\n\\nThis contract is non-negotiable.\\n\\nThis message may contain confidential, proprietary, privileged and/or private information. The information is intended to be for the use of the individual or entity designated above.",
       "tr": "埃克哈特安保有限公司\\n合约 & 派遣\\n\\n合约类型：保卫飞船\\n授权代码 = [APPROVAL_CODE]\\n\\n需要立即处理\\n\\n我们的一个客户想出了一个“绝妙”的主意，想在真实现实场景中测试他们的空战狗斗技能。听起来情况不太妙，因为他们已经向我们求救了。\\n\\n前往 <EM4>[LOCATION]</EM4>，帮助他们收拾烂摊子。\\n\\n报酬将在合约顺利完成后支付。\\n\\n该合约不可转让。\\n\\n此消息中可能包含机密、专有、特许保密的和/或私人信息，该等资料仅供上述指定的个人或实体使用。"
+    },
+    "cfp_defendship_VLRT_SB_desc_001": {
+      "en": "Received an emergency comm from a ship saying that the Shattered Blade are harassing them. Believe the pilot got their attention by getting a little too close to their territory. The pilot admitted that they don’t have a lot of combat experience, so I’m not sure how much longer they can hold out.\\n\\nCould you head to <EM4>[LOCATION]</EM4> now to help them survive the attack?\\n\\nLima Endicott\\nLead Dispatcher\\nCitizens for Prosperity",
+      "tr": "收到一艘飞船的紧急通讯，说碎刃帮正在骚扰他们。看来是飞行员太靠近他们的地盘，引起了对方注意。飞行员自己也承认战斗经验不足，所以我不确定他们还能撑多久。\\n\\n你能现在就去 <EM4>[LOCATION]</EM4> 帮助他们顶住这次攻击吗？\\n\\n利玛·恩迪科特\\n首席调度员\\n繁荣公民"
     },
     "HeadHunters_ShipAmbush_VE_desc_001": {
       "en": "Some numskull flying a <EM4>[TARGET]</EM4> was caught spying on our ops. We ran ‘em off with a warning only to spot ‘em doing the same shit someplace else. Since they didn’t get the message, seems we gotta send a stronger one.    \\n\\nThere’s an emission cloud near <EM4>[LOCATION]</EM4> that they fly by frequently. Primo place to power down, hide, and launch a surprise attack. Sometimes they fly solo, sometimes there’s other single-seaters with them. It’ll be all you for that first hit, but we’ll put some support ships nearby to help finish the job. \\n\\nAnd if you needed some extra motivation, there's a bonus of <EM4>1 Council Scrip</EM4> for the main contractor at the end of the job. \\n\\nStows out.",
@@ -8955,6 +9207,18 @@
       "en": "Drake Cutter",
       "tr": "德雷克 小刀\\nDrake Cutter"
     },
+    "vehicle_NameANVL_C8_Pisces": {
+      "en": "Anvil C8 Pisces",
+      "tr": "铁砧 C8 双鱼座\\nAnvil C8 Pisces"
+    },
+    "vehicle_NameANVL_C8R_Pisces_Rescue": {
+      "en": "Anvil C8R Pisces Rescue",
+      "tr": "铁砧 C8R 双鱼座 救护\\nAnvil C8R Pisces Rescue"
+    },
+    "vehicle_NameANVL_C8X_Pisces_Expedition": {
+      "en": "Anvil C8X Pisces Expedition",
+      "tr": "铁砧 C8X 双鱼座 远征\\nAnvil C8X Pisces Expedition"
+    },
     "vehicle_NameAEGS_Avenger_Stalker": {
       "en": "Aegis Avenger Stalker",
       "tr": "圣盾 复仇者 追猎\\nAegis Avenger Stalker"
@@ -9002,18 +9266,6 @@
     "vehicle_NameAEGS_Sabre_Raven": {
       "en": "Aegis Sabre Raven",
       "tr": "圣盾 军刀 渡鸦\\nAegis Sabre Raven"
-    },
-    "vehicle_NameANVL_C8_Pisces": {
-      "en": "Anvil C8 Pisces",
-      "tr": "铁砧 C8 双鱼座\\nAnvil C8 Pisces"
-    },
-    "vehicle_NameANVL_C8R_Pisces_Rescue": {
-      "en": "Anvil C8R Pisces Rescue",
-      "tr": "铁砧 C8R 双鱼座 救护\\nAnvil C8R Pisces Rescue"
-    },
-    "vehicle_NameANVL_C8X_Pisces_Expedition": {
-      "en": "Anvil C8X Pisces Expedition",
-      "tr": "铁砧 C8X 双鱼座 远征\\nAnvil C8X Pisces Expedition"
     },
     "vehicle_nameANVL_Carrack": {
       "en": "Anvil Carrack",
@@ -9363,13 +9615,13 @@
       "en": "Wreckage",
       "tr": "残骸"
     },
-    "vehicle_Nameprobe_comms_1_a": {
-      "en": "CHCO Auris PDC Monitor",
-      "tr": "CHCO 奥瑞斯 被动数据收集监测设备"
-    },
     "vehicle_NameDRAK_Cutlass_Red": {
       "en": "Drake Cutlass Red",
       "tr": "德雷克 红弯刀\\nDrake Cutlass Red"
+    },
+    "vehicle_Nameprobe_comms_1_a": {
+      "en": "CHCO Auris PDC Monitor",
+      "tr": "CHCO 奥瑞斯 被动数据收集监测设备"
     },
     "vehicle_NameKRIG_P52_Merlin": {
       "en": "Kruger P-52 Merlin",
@@ -9457,59 +9709,59 @@
     },
     "RepStanding_Bounty_Rank0": {
       "en": "Applicant",
-      "tr": "申请者"
+      "tr": "lv.0 申请者"
     },
     "RepStanding_Bounty_Rank1": {
       "en": "Tracker Trainee",
-      "tr": "见习追猎者"
+      "tr": "lv.1 见习追猎者"
     },
     "RepStanding_Bounty_Rank2": {
       "en": "Associate Tracker",
-      "tr": "非正式追猎者"
+      "tr": "lv.2 非正式追猎者"
     },
     "RepStanding_Bounty_Rank3": {
       "en": "Tracker",
-      "tr": "追猎者"
+      "tr": "lv.3 追猎者"
     },
     "RepStanding_Bounty_Rank4": {
       "en": "Advanced Tracker",
-      "tr": "高级追猎者"
+      "tr": "lv.4 高级追猎者"
     },
     "RepStanding_Bounty_Rank5": {
       "en": "Senior Tracker",
-      "tr": "资深追猎者"
+      "tr": "lv.5 资深追猎者"
     },
     "RepStanding_Bounty_Rank6": {
       "en": "Master Tracker",
-      "tr": "大师级追猎者"
+      "tr": "lv.6 大师级追猎者"
     },
     "RepStanding_Bounty_Applicant_Name": {
       "en": "Applicant",
-      "tr": "申请人"
+      "tr": "lv.0 申请人"
     },
     "RepStanding_Bounty_Probation_Name": {
       "en": "Probationary Guild Member",
-      "tr": "试用公会成员"
+      "tr": "lv.1 试用公会成员"
     },
     "RepStanding_Bounty_Junior_Name": {
       "en": "Junior Guild Member",
-      "tr": "初级公会成员"
+      "tr": "lv.2 初级公会成员"
     },
     "RepStanding_Bounty_MidLevel_Name": {
       "en": "Guild Member",
-      "tr": "公会成员"
+      "tr": "lv.3 公会成员"
     },
     "RepStanding_Bounty_Senior_Name": {
       "en": "Senior Guild Member",
-      "tr": "高级公会成员"
+      "tr": "lv.4 高级公会成员"
     },
     "RepStanding_Bounty_MasterBountyHunter_Name": {
       "en": "Veteran Guild Member",
-      "tr": "资深公会成员"
+      "tr": "lv.5 资深公会成员"
     },
     "RepStanding_Bounty_LegendaryBountyHunter_Name": {
       "en": "Guild Steward",
-      "tr": "公会理事"
+      "tr": "lv.6 公会理事"
     },
     "RepStanding_TransportGuild_Rank0": {
       "en": "Trainee",
