@@ -1,11 +1,11 @@
 {
-  "version": "4.9.0-live.12269732",
+  "version": "4.9.0-live.12344265",
   "sourceLanguage": "en",
   "targetLanguage": "zh-cn-rsui",
-  "keyCount": 2720,
+  "keyCount": 2722,
   "stats": {
-    "total": 2720,
-    "translated": 2592,
+    "total": 2722,
+    "translated": 2594,
     "missing": 0,
     "noLocKey": 60,
     "placeholderFallback": 68,
@@ -1809,11 +1809,11 @@
     },
     "Covalex_HaulCargo_AToB_title": {
       "en": "Rookie Rank - Direct Small Cargo Haul",
-      "tr": "[RANK] 级别 - 直达 [CARGO_GRADE] 货物运输\\n[科瓦莱什 - 一对一货运][lv.6 蓝图]"
+      "tr": "[RANK] 级别 - 直达 [CARGO_GRADE] 货物运输\\n[科瓦莱什 - 一对一货运]<EM4>[lv.6 蓝图]</EM4>"
     },
     "Covalex_HaulCargo_SingleToMulti_title": {
       "en": "Senior Rank - Medium Cargo Haul",
-      "tr": "[RANK] 级别 - [CARGO_GRADE] 货物运输\\n[科瓦莱什 - 一对多货运][lv.6 蓝图]"
+      "tr": "[RANK] 级别 - [CARGO_GRADE] 货物运输\\n[科瓦莱什 - 一对多货运]<EM4>[lv.6 蓝图]</EM4>"
     },
     "BHG_Certification_Super_Title": {
       "en": "Master Tracker License Certification",
@@ -9167,6 +9167,70 @@
       "en": "Ruptura PAF-III",
       "tr": "破碎站 平台校准设施-III (Ruptura PAF-III)"
     },
+    "vehicle_NameAEGS_Gladius": {
+      "en": "Aegis Gladius",
+      "tr": "圣盾 短剑\\nAegis Gladius"
+    },
+    "vehicle_NameAEGS_Redeemer": {
+      "en": "Aegis Redeemer",
+      "tr": "圣盾 救赎者\\nAegis Redeemer"
+    },
+    "vehicle_NameAEGS_Vanguard_Harbinger": {
+      "en": "Aegis Vanguard Harbinger",
+      "tr": "圣盾 先锋 先驱\\nAegis Vanguard Harbinger"
+    },
+    "vehicle_NameAEGS_Vanguard_Hoplite": {
+      "en": "Aegis Vanguard Hoplite",
+      "tr": "圣盾 先锋 重装\\nAegis Vanguard Hoplite"
+    },
+    "vehicle_NameAEGS_Vanguard_Sentinel": {
+      "en": "Aegis Vanguard Sentinel",
+      "tr": "圣盾 先锋 哨兵\\nAegis Vanguard Sentinel"
+    },
+    "vehicle_NameAEGS_Vanguard": {
+      "en": "Aegis Vanguard Warden",
+      "tr": "圣盾 先锋 典狱长\\nAegis Vanguard Warden"
+    },
+    "vehicle_NameARGO_RAFT": {
+      "en": "Argo RAFT",
+      "tr": "南船座 木筏\\nArgo RAFT"
+    },
+    "vehicle_NameCNOU_Nomad": {
+      "en": "C.O. Nomad",
+      "tr": "联合外域 游牧者\\nC.O. Nomad"
+    },
+    "vehicle_NameCRUS_A1_Spirit": {
+      "en": "Crusader A1 Spirit",
+      "tr": "十字军 星灵 A1\\nCrusader A1 Spirit"
+    },
+    "vehicle_NameCRUS_Starfighter_Inferno": {
+      "en": "Crusader Ares Star Fighter Inferno",
+      "tr": "十字军 战神 星际战斗机 地狱火\\nCrusader Ares Star Fighter Inferno"
+    },
+    "vehicle_NameCRUS_C1_Spirit": {
+      "en": "Crusader C1 Spirit",
+      "tr": "十字军 星灵 C1\\nCrusader C1 Spirit"
+    },
+    "vehicle_NameDRAK_Vulture": {
+      "en": "Drake Vulture",
+      "tr": "德雷克 秃鹫\\nDrake Vulture"
+    },
+    "vehicle_NameESPR_Prowler": {
+      "en": "Esperia Prowler",
+      "tr": "埃斯佩里亚 徘徊者\\nEsperia Prowler"
+    },
+    "vehicle_NameRSI_Scorpius": {
+      "en": "RSI Scorpius",
+      "tr": "RSI 天蝎座\\nRSI Scorpius"
+    },
+    "vehicle_NameRSI_Scorpius_Antares": {
+      "en": "RSI Scorpius Antares",
+      "tr": "RSI 天蝎座 蝎心\\nRSI Scorpius Antares"
+    },
+    "vehicle_NameRSI_Zeus_ES": {
+      "en": "RSI Zeus Mk II ES",
+      "tr": "RSI 宙斯 MK II ES\\nRSI Zeus Mk II ES"
+    },
     "vehicle_NameAEGS_Avenger_Titan": {
       "en": "Aegis Avenger Titan",
       "tr": "圣盾 复仇者 泰坦\\nAegis Avenger Titan"
@@ -9174,10 +9238,6 @@
     "vehicle_NameAEGS_Avenger_Warlock": {
       "en": "Aegis Avenger Warlock",
       "tr": "圣盾 复仇者 术士\\nAegis Avenger Warlock"
-    },
-    "vehicle_NameAEGS_Gladius": {
-      "en": "Aegis Gladius",
-      "tr": "圣盾 短剑\\nAegis Gladius"
     },
     "vehicle_NameAEGS_Gladius_Valiant": {
       "en": "Aegis Gladius Valiant",
@@ -9203,14 +9263,6 @@
       "en": "Aegis Sabre Raven",
       "tr": "圣盾 军刀 渡鸦\\nAegis Sabre Raven"
     },
-    "vehicle_NameAEGS_Vanguard_Hoplite": {
-      "en": "Aegis Vanguard Hoplite",
-      "tr": "圣盾 先锋 重装\\nAegis Vanguard Hoplite"
-    },
-    "vehicle_NameAEGS_Vanguard_Sentinel": {
-      "en": "Aegis Vanguard Sentinel",
-      "tr": "圣盾 先锋 哨兵\\nAegis Vanguard Sentinel"
-    },
     "vehicle_NameANVL_Hawk": {
       "en": "Anvil Hawk",
       "tr": "铁砧 猎鹰\\nAnvil Hawk"
@@ -9219,17 +9271,9 @@
       "en": "Argo MOLE",
       "tr": "南船座 鼹鼠\\nArgo MOLE"
     },
-    "vehicle_NameARGO_RAFT": {
-      "en": "Argo RAFT",
-      "tr": "南船座 木筏\\nArgo RAFT"
-    },
     "vehicle_NameBanu_Defender": {
       "en": "Banu Defender",
       "tr": "巴努 防卫者\\nBanu Defender"
-    },
-    "vehicle_NameCNOU_Nomad": {
-      "en": "C.O. Nomad",
-      "tr": "联合外域 游牧者\\nC.O. Nomad"
     },
     "vehicle_NameCRUS_Starlifter_C2": {
       "en": "Crusader C2 Hercules Starlifter",
@@ -9242,10 +9286,6 @@
     "vehicle_NameDRAK_Buccaneer": {
       "en": "Drake Buccaneer",
       "tr": "德雷克 掠夺者\\nDrake Buccaneer"
-    },
-    "vehicle_NameESPR_Prowler": {
-      "en": "Esperia Prowler",
-      "tr": "埃斯佩里亚 徘徊者\\nEsperia Prowler"
     },
     "vehicle_NameMISC_Freelancer": {
       "en": "MISC Freelancer",
@@ -9303,14 +9343,6 @@
       "en": "RSI Constellation Taurus",
       "tr": "RSI 星座 金牛座\\nRSI Constellation Taurus"
     },
-    "vehicle_NameAEGS_Vanguard_Harbinger": {
-      "en": "Aegis Vanguard Harbinger",
-      "tr": "圣盾 先锋 先驱\\nAegis Vanguard Harbinger"
-    },
-    "vehicle_NameAEGS_Vanguard": {
-      "en": "Aegis Vanguard Warden",
-      "tr": "圣盾 先锋 典狱长\\nAegis Vanguard Warden"
-    },
     "vehicle_NameANVL_Arrow": {
       "en": "Anvil Arrow",
       "tr": "铁砧 箭矢\\nAnvil Arrow"
@@ -9330,10 +9362,6 @@
     "vehicle_NameXIAN_Scout": {
       "en": "Aopoa Khartu-al",
       "tr": "奥波亚 卡图\\nAopoa Khartu-al"
-    },
-    "vehicle_NameCRUS_A1_Spirit": {
-      "en": "Crusader A1 Spirit",
-      "tr": "十字军 星灵 A1\\nCrusader A1 Spirit"
     },
     "vehicle_NameCRUS_Starlifter_M2": {
       "en": "Crusader M2 Hercules Starlifter",
@@ -9390,10 +9418,6 @@
     "vehicle_NameRSI_Zeus_CL": {
       "en": "RSI Zeus Mk II CL",
       "tr": "RSI 宙斯 MK II CL\\nRSI Zeus Mk II CL"
-    },
-    "vehicle_NameRSI_Zeus_ES": {
-      "en": "RSI Zeus Mk II ES",
-      "tr": "RSI 宙斯 MK II ES\\nRSI Zeus Mk II ES"
     },
     "vehicle_NameDRAK_Cutter": {
       "en": "Drake Cutter",
@@ -9571,10 +9595,6 @@
       "en": "Anvil Terrapin Medic",
       "tr": "铁砧 水龟 医疗\\nAnvil Terrapin Medic"
     },
-    "vehicle_NameDRAK_Vulture": {
-      "en": "Drake Vulture",
-      "tr": "德雷克 秃鹫\\nDrake Vulture"
-    },
     "vehicle_NameMISC_Reliant_Mako": {
       "en": "MISC Reliant Mako",
       "tr": "武藏 信赖 新闻\\nMISC Reliant Mako"
@@ -9594,10 +9614,6 @@
     "vehicle_NameAEGS_Idris_P": {
       "en": "Aegis Idris-P",
       "tr": "圣盾 伊德里斯-P\\nAegis Idris-P"
-    },
-    "vehicle_NameAEGS_Redeemer": {
-      "en": "Aegis Redeemer",
-      "tr": "圣盾 救赎者\\nAegis Redeemer"
     },
     "vehicle_NameANVL_Hornet_F7C_Mk2": {
       "en": "Anvil F7C Hornet Mk II",
@@ -9623,10 +9639,6 @@
       "en": "Anvil Paladin",
       "tr": "铁砧 圣骑士\\nAnvil Paladin"
     },
-    "vehicle_NameCRUS_Starfighter_Inferno": {
-      "en": "Crusader Ares Star Fighter Inferno",
-      "tr": "十字军 战神 星际战斗机 地狱火\\nCrusader Ares Star Fighter Inferno"
-    },
     "vehicle_NameCRUS_Starfighter_Ion": {
       "en": "Crusader Ares Star Fighter Ion",
       "tr": "十字军 战神 星际战斗机 离子光\\nCrusader Ares Star Fighter Ion"
@@ -9646,14 +9658,6 @@
     "vehicle_NameRSI_Constellation_Phoenix": {
       "en": "RSI Constellation Phoenix",
       "tr": "RSI 星座 凤凰座\\nRSI Constellation Phoenix"
-    },
-    "vehicle_NameRSI_Scorpius": {
-      "en": "RSI Scorpius",
-      "tr": "RSI 天蝎座\\nRSI Scorpius"
-    },
-    "vehicle_NameRSI_Scorpius_Antares": {
-      "en": "RSI Scorpius Antares",
-      "tr": "RSI 天蝎座 蝎心\\nRSI Scorpius Antares"
     },
     "vehicle_NameANVL_Hornet_F7A_Mk2": {
       "en": "Anvil F7A Hornet Mk II",
@@ -9694,6 +9698,10 @@
     "vehicle_NameXNAA_SantokYai": {
       "en": "Aopoa San'tok.yāi",
       "tr": "奥波亚 桑托起亚\\nAopoa San'tok.yai"
+    },
+    "vehicle_NameCRUS_Intrepid": {
+      "en": "Crusader Intrepid",
+      "tr": "十字军 无畏\\nCrusader Intrepid"
     },
     "vehicle_NameDRAK_Cutlass_Blue": {
       "en": "Drake Cutlass Blue",
